@@ -1,0 +1,1178 @@
+Company,Model,Variant,Price,Body_Type,Displacement(cc),Cylinders,Fuel_System,Fuel_Tank_Capacity(liters),Fuel_Type,City_Mileage(km/lit),Seating_Capacity,Basic_Warranty,Child_Safety_Locks,Number_of_Airbags,Parking_Assistance,Navigation_System
+Tata,Nano Genx,Xt,292667,Hatchback,624,2,Injection,24,Petrol,23.6,4.0,2.0,Yes,2.0,No Sensors,No
+Tata,Nano Genx,Xe,236447,Hatchback,624,2,Injection,24,Petrol,23.6,4.0,2.0,Yes,2.0,No Sensors,No
+Tata,Nano Genx,Emax Xm,296661,Hatchback,624,2,Injection,15,CNG,15.5,4.0,2.0,Yes,2.0,No Sensors,No
+Tata,Nano Genx,Xta,334768,Hatchback,624,2,Injection,24,Petrol,23.6,4.0,2.0,Yes,2.0,No Sensors,No
+Tata,Nano Genx,Xm,272223,Hatchback,624,2,Injection,24,Petrol,23.6,4.0,2.0,Yes,2.0,No Sensors,No
+Tata,Nano Genx,Xma,314815,Hatchback,624,2,Injection,24,Petrol,23.6,4.0,2.0,Yes,2.0,No Sensors,No
+Datsun,Redi-Go,D,279650,Hatchback,799,3,Injection,28,Petrol,21.38,5.0,2.0,Yes,2.0,No Sensors,No
+Datsun,Redi-Go,T,351832,Hatchback,799,3,Injection,28,Petrol,21.38,5.0,2.0,Yes,2.0,No Sensors,No
+Datsun,Redi-Go,A,333419,Hatchback,799,3,Injection,28,Petrol,21.38,5.0,2.0,Yes,2.0,No Sensors,No
+Datsun,Redi-Go,S,362000,Hatchback,799,3,Injection,28,Petrol,21.38,5.0,2.0,Yes,2.0,Rear sensors,No
+Datsun,Redi-Go,1.0 S,390000,Hatchback,999,3,Injection,28,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Datsun,Redi-Go,1.0 S Amt,437065,Hatchback,999,3,Injection,28,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Renault,Kwid,Rxe 0.8,353290,Hatchback,799,3,Injection,28,Petrol,25.17,5.0,2.0,Yes,1.0,No Sensors,No
+Renault,Kwid,Std 0.8,283290,Hatchback,799,3,Injection,28,Petrol,25.17,5.0,2.0,No,1.0,No Sensors,No
+Renault,Kwid,Rxl 0.8,383290,Hatchback,799,3,Injection,28,Petrol,25.17,5.0,2.0,Yes,1.0,No Sensors,No
+Renault,Kwid,Rxt 0.8,413290,Hatchback,799,3,Injection,28,Petrol,25.17,5.0,2.0,Yes,1.0,No Sensors,Yes
+Renault,Kwid,Rxt 1.0,433290,Hatchback,999,3,Injection,28,Petrol,25.17,5.0,2.0,Yes,1.0,Rear sensors with camera,No
+Renault,Kwid,Climber 1.0 Mt,454490,Hatchback,999,3,Injection,28,Petrol,25.17,5.0,2.0,Yes,1.0,Rear sensors with camera,No
+Renault,Kwid,Rxt Amt 1.0,463290,Hatchback,999,3,Injection,28,Petrol,25.17,5.0,2.0,Yes,1.0,Rear sensors with camera,Yes
+Renault,Kwid,Climber Amt 1.0,484490,Hatchback,999,3,Injection,28,Petrol,25.17,5.0,2.0,Yes,1.0,Rear sensors with camera,Yes
+Renault,Kwid,Rxt (O) 1.0,440990,Hatchback,999,3,Injection,28,Petrol,25.17,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Renault,Kwid,Rxt (O) Amt 1.0,470990,Hatchback,999,3,Injection,28,Petrol,25.17,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Renault,Kwid,Climber (O) Mt 1.0,462190,Hatchback,999,3,Injection,28,Petrol,25.17,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Renault,Kwid,Climber (O) Amt 1.0,492190,Hatchback,999,3,Injection,28,Petrol,25.17,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Eeco,5 Str,352136,MPV,1196,4,Injection,40,Petrol,12.0,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,Eeco,7 Str,380573,MPV,1196,4,Injection,40,Petrol,12.0,7.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,Eeco,5 Str With Ac+Htr,392967,MPV,1196,4,Injection,40,Petrol,11.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Eeco,5 Str With Ac+Htr Cng,466057,MPV,1196,4,Injection,40,CNG,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,Eeco,5 Str With Htr Cng,425255,MPV,1196,4,Injection,40,CNG,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,Alto K10,Lxi,377588,Hatchback,998,3,Injection,35,Petrol,14.0,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Alto K10,Vxi,394036,Hatchback,998,3,Injection,35,Petrol,14.0,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Alto K10,Lx,360843,Hatchback,998,3,Injection,35,Petrol,19.0,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Alto K10,Vxi (O),407238,Hatchback,998,3,Injection,35,Petrol,14.0,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Alto K10,Lxi Cng (O),439777,Hatchback,998,3,Injection,35,CNG,15.5,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Alto K10,Vxi Amt (O),438559,Hatchback,998,3,Injection,35,Petrol,14.0,5.0,2.0,Yes,1.0,No Sensors,No
+Datsun,Go,D,374990,Hatchback,1198,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Datsun,Go,T,468229,Hatchback,1198,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Datsun,Go,T (O),502492,Hatchback,1198,3,Injection,35,Petrol,20.6,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Datsun,Go,A (O),499990,Hatchback,1198,3,Injection,35,Petrol,20.6,5.0,2.0,Yes,2.0,Rear sensors,No
+Datsun,Go,A,469990,Hatchback,1198,3,Injection,35,Petrol,20.6,5.0,2.0,Yes,2.0,Rear sensors,No
+Datsun,Go,T Vdc,528464,Hatchback,1198,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Datsun,Go,T (O) Vdc,553015,Hatchback,1198,3,Injection,35,Petrol,20.6,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Datsun,Go,T Cvt,594464,Hatchback,1198,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Datsun,Go,T (O) Cvt,618015,Hatchback,1198,3,Injection,35,Petrol,20.6,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Maruti Suzuki,Celerio Tour,H2,422444,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio Tour,H2 Cng,480670,Hatchback,998,3,Injection,60,CNG,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Santro,Era Mt,429990,Hatchback,1086,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,1.0,No Sensors,No
+Hyundai,Santro,Magna Mt,503990,Hatchback,1086,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,1.0,No Sensors,No
+Hyundai,Santro,Magna Mt Cng,547990,Hatchback,1086,4,Injection,35,CNG,15.5,5.0,2.0,Yes,1.0,No Sensors,No
+Hyundai,Santro,Magna Amt,530990,Hatchback,1086,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,1.0,No Sensors,No
+Hyundai,Santro,Sportz Mt,512990,Hatchback,1086,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,1.0,No Sensors,Yes
+Hyundai,Santro,Sportz Mt Cng,578990,Hatchback,1086,4,Injection,60,CNG,15.5,5.0,2.0,Yes,1.0,No Sensors,Yes
+Hyundai,Santro,Sportz Amt,570990,Hatchback,1086,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,1.0,No Sensors,Yes
+Hyundai,Santro,Asta Mt,556490,Hatchback,1086,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Tiago,Revotron Xe,460000,Hatchback,1199,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Tata,Tiago,Revotron Xt,520000,Hatchback,1199,3,Injection,35,Petrol,23.84,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Tata,Tiago,Revotron Xz,570000,Hatchback,1199,3,Injection,35,Petrol,23.84,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Tata,Tiago,Revotron Xz Plus,599000,Hatchback,1199,3,Injection,35,Petrol,23.84,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Tata,Tiago,Revotron Xz Plus Dual Tone,610000,Hatchback,1199,3,Injection,35,Petrol,23.84,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Tata,Tiago,Revotron Xza,620000,Hatchback,1199,3,Injection,35,Petrol,23.84,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Tiago,Revotron Xza Plus,649000,Hatchback,1199,3,Injection,35,Petrol,23.84,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Tiago,Revotron Xza Plus Dual Tone,660000,Hatchback,1199,3,Injection,35,Petrol,23.84,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Celerio X,Vxi (O),481074,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio X,Vxi,475198,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Celerio X,Vxi Amt,518198,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Celerio X,Vxi Amt (O),524074,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio X,Zxi,499734,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Celerio X,Zxi (O),540350,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio X,Zxi Amt,542735,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Celerio X,Zxi Amt (O),552350,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Ignis,Alpha 1.2 Amt,713898,Hatchback,1197,4,Injection,32,Petrol,20.89,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Ignis,Alpha 1.2 Mt,666898,Hatchback,1197,4,Injection,32,Petrol,20.89,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Ignis,Delta 1.2 Amt,607841,Hatchback,1197,4,Injection,32,Petrol,20.89,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ignis,Delta 1.2 Mt,560841,Hatchback,1197,4,Injection,32,Petrol,20.89,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ignis,Sigma 1.2 Mt,483320,Hatchback,1197,4,Injection,32,Petrol,20.89,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Maruti Suzuki,Ignis,Zeta 1.2 Amt,630320,Hatchback,1197,4,Injection,32,Petrol,15.1,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ignis,Zeta 1.2 Mt,583320,Hatchback,1197,4,Injection,32,Petrol,20.89,5.0,2.0,Yes,2.0,Rear sensors,No
+Renault,Triber,Rxe,495000,MUV,999,3,Injection,40,Petrol,15.5,7.0,2.0,Yes,2.0,Rear sensors,No
+Renault,Triber,Rxl,559000,MUV,999,3,Injection,40,Petrol,15.5,7.0,2.0,Yes,2.0,Rear sensors,No
+Renault,Triber,Rxt,609000,MUV,999,3,Injection,40,Petrol,15.5,7.0,2.0,Yes,2.0,Rear sensors,No
+Renault,Triber,Rxz,663000,MUV,999,3,Injection,40,Petrol,15.5,7.0,2.0,Yes,4.0,Rear sensors with camera,No
+Premier,Rio,Gx,506000,SUV,1173,4,Injection,46,Petrol,13.0,5.0,2.0,Yes,2.0,No Sensors,No
+Premier,Rio,Ex,568623,SUV,1489,4,Injection,46,Diesel,12.0,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Premier,Rio,Glx,670000,SUV,1173,4,Injection,46,Petrol,13.0,5.0,2.0,Yes,2.0,No Sensors,No
+Premier,Rio,Dx,603000,SUV,1489,4,Injection,46,Diesel,12.0,5.0,2.0,Yes,2.0,No Sensors,No
+Premier,Rio,Lx,739000,SUV,1489,4,Injection,46,Diesel,12.0,5.0,2.0,Yes,2.0,No Sensors,No
+Premier,Rio,Crdi4,739000,SUV,1248,4,Injection,46,Diesel,20.0,5.0,2.0,Yes,2.0,No Sensors,No
+Toyota,Etios Liva,G,520300,Hatchback,1197,4,Injection,45,Petrol,15.1,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Liva,V,581000,Hatchback,1197,4,Injection,45,Petrol,15.1,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Liva,Gd,647800,Hatchback,1364,4,Injection,45,Diesel,20.3,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Liva,Vx,630000,Hatchback,1197,4,Injection,45,Petrol,15.1,5.0,3.0,Yes,2.0,Rear sensors,No
+Toyota,Etios Liva,Vxd,745000,Hatchback,1364,4,Injection,45,Diesel,20.3,5.0,3.0,Yes,2.0,Rear sensors,No
+Toyota,Etios Liva,Vd,704000,Hatchback,1364,4,Injection,45,Diesel,20.3,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Liva,Dual Tone V,597700,Hatchback,1197,4,Injection,45,Petrol,15.1,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Liva,Dual Tone Vd,720700,Hatchback,1364,4,Injection,45,Diesel,20.3,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Liva,Dual Tone Vx,641700,Hatchback,1197,4,Injection,45,Petrol,15.1,5.0,3.0,Yes,2.0,Rear sensors,No
+Toyota,Etios Liva,Dual Tone Vxd,756700,Hatchback,1364,4,Injection,45,Diesel,20.3,5.0,3.0,Yes,2.0,Rear sensors,No
+Toyota,Etios Liva,Gx,558400,Hatchback,1197,4,Injection,45,Petrol,15.1,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Liva,Gxd,686000,Hatchback,1364,4,Injection,45,Diesel,20.3,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Liva,Vx Dual Tone Limited Edition,662700,Hatchback,1197,4,Injection,45,Petrol,15.1,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Toyota,Etios Liva,Vxd Dual Tone Limited Edition,777700,Hatchback,1364,4,Injection,45,Diesel,20.3,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Nissan,Micra Active,Xl,525021,Hatchback,1198,3,Injection,41,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Nissan,Micra Active,Xv,599950,Hatchback,1198,3,Injection,41,Petrol,19.49,5.0,2.0,Yes,2.0,Rear sensors,No
+Nissan,Micra Active,Xl (O),563133,Hatchback,1198,3,Injection,41,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Tata,Bolt,Xt Diesel,787980,Hatchback,1248,4,Injection,44,Diesel,22.95,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Bolt,Xe Diesel,661111,Hatchback,1248,4,Injection,44,Diesel,22.95,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Bolt,Xm Diesel,693798,Hatchback,1248,4,Injection,44,Diesel,22.95,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Bolt,Xms Diesel,719661,Hatchback,1248,4,Injection,44,Diesel,22.95,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Bolt,Xt Petrol,674960,Hatchback,1193,4,Injection,44,Petrol,17.57,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Bolt,Xe Petrol,529035,Hatchback,1193,4,Injection,44,Petrol,17.57,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Bolt,Xm Petrol,590268,Hatchback,1193,4,Injection,44,Petrol,17.57,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Bolt,Xms Petrol,614515,Hatchback,1193,4,Injection,44,Petrol,17.57,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Xcent Prime,Cng T + (Cng +,556130,Sedan,1197,4,Injection,43,CNG + Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Xcent Prime,T,536859,Sedan,1197,4,Injection,43,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Xcent Prime,T+,556130,Sedan,1197,4,Injection,43,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Xcent Prime,Cng T (Cng +,536859,Sedan,1197,4,Injection,43,CNG + Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Xcent Prime,T+ Crdi,639616,Sedan,1197,4,Injection,43,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Xcent Prime,T Crdi,620297,Sedan,1197,4,Injection,43,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Dzire Tour,Ldi,653523,Sedan,1248,4,Injection,42,Diesel,14.6,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Dzire Tour,Lxi,553423,Sedan,1197,4,Injection,42,Petrol,16.3,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Dzire Tour,Lxi Cng,598940,Sedan,1197,4,Injection,42,CNG,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Elite I20,Era 1.2,559693,Hatchback,1197,4,Injection,45,Petrol,13.3,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Elite I20,Era 1.4 Crdi,697803,Hatchback,1396,4,Injection,45,Diesel,18.4,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Elite I20,Magna Plus,634950,Hatchback,1197,4,Injection,45,Petrol,13.3,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Elite I20,Magna Plus Crdi,770803,Hatchback,1396,4,Injection,45,Diesel,18.4,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Elite I20,Sportz Plus,721693,Hatchback,1197,4,Injection,45,Petrol,13.3,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Elite I20,Sportz Plus Crdi Dual Tone,876103,Hatchback,1396,4,Injection,45,Diesel,18.4,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Elite I20,Asta (O) 1.2,808993,Hatchback,1197,4,Injection,45,Petrol,13.3,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Elite I20,Asta (O) Crdi,934003,Hatchback,1396,4,Injection,45,Diesel,18.4,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Elite I20,Asta (O) Cvt,920993,Hatchback,1197,4,Injection,45,Petrol,13.3,5.0,2.0,No,2.0,Rear sensors with camera,No
+Hyundai,Elite I20,Sportz Plus Dual Tone,751693,Hatchback,1197,4,Injection,45,Petrol,13.3,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Elite I20,Sportz Plus Cvt,831693,Hatchback,1197,4,Injection,45,Petrol,13.3,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Elite I20,Sportz Plus Crdi,846103,Hatchback,1396,4,Injection,45,Diesel,18.4,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Aura,E 1.2 Petrol,579900,Sedan,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Aura,S 1.2 Petrol,655900,Sedan,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Aura,S 1.2 Amt Petrol,705800,Sedan,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Aura,Sx 1.2 Petrol,729900,Sedan,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Aura,Sx Plus 1.2 Amt Petrol,804800,Sedan,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Aura,Sx (O) 1.2 Petrol,785900,Sedan,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Aura,S 1.2 Cng Petrol (Cng +,728900,Sedan,1197,4,Injection,37,CNG + Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Aura,Sx Plus 1.0 Petrol,854900,Sedan,998,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Aura,S 1.2 Diesel,773800,Sedan,1186,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Aura,S 1.2 Amt Diesel,823700,Sedan,1186,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Aura,Sx Plus 1.2 Amt Diesel,922700,Sedan,1186,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Aura,Sx (O) 1.2 Diesel,903800,Sedan,1186,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Volkswagen,Polo,Trendline 1.0L (P),582000,Hatchback,999,3,Injection,45,Petrol,14.0,5.0,2.0,Yes,2.0,No Sensors,No
+Volkswagen,Polo,Comfortline 1.0 (P),676500,Hatchback,999,3,Injection,45,Petrol,14.0,5.0,2.0,Yes,2.0,No Sensors,Yes
+Volkswagen,Polo,Highline Plus 1.0 (P),776500,Hatchback,999,3,Injection,45,Petrol,14.0,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Volkswagen,Polo,Trendline 1.5L (D),734500,Hatchback,1498,4,Injection,45,Diesel,19.0,5.0,2.0,Yes,2.0,No Sensors,No
+Volkswagen,Polo,Comfortline 1.5 (D),851500,Hatchback,1498,4,Injection,45,Diesel,19.0,5.0,2.0,Yes,2.0,No Sensors,Yes
+Volkswagen,Polo,Highline Plus 1.5 (D),931500,Hatchback,1498,4,Injection,45,Diesel,19.0,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Volkswagen,Polo,Gt Tsi,976000,Hatchback,1197,4,Injection,45,Petrol,17.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Volkswagen,Polo,Gt Tdi,988500,Hatchback,1498,4,Injection,45,Diesel,19.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Dzire,Lxi,582613,Sedan,1197,4,Injection,37,Petrol,16.3,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Dzire,Vxi,673112,Sedan,1197,4,Injection,37,Petrol,16.3,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Dzire,Ldi,666622,Sedan,1248,4,Injection,37,Diesel,28.4,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Dzire,Zxi,732113,Sedan,1197,4,Injection,37,Petrol,16.3,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Dzire,Vdi,757622,Sedan,1248,4,Injection,37,Diesel,28.4,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Dzire,Vxi Amt,720112,Sedan,1197,4,Injection,37,Petrol,16.3,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Dzire,Zdi Amt,863122,Sedan,1248,4,Injection,37,Diesel,28.4,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Dzire,Zdi,816622,Sedan,1248,4,Injection,37,Diesel,28.4,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Dzire,Zxi Plus,821613,Sedan,1197,4,Injection,37,Petrol,16.3,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Dzire,Zxi At,779113,Sedan,1197,4,Injection,37,Petrol,16.3,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Dzire,Zxi Plus Amt,868613,Sedan,1197,4,Injection,37,Petrol,16.3,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Dzire,Zdi Plus,906122,Sedan,1248,4,Injection,37,Diesel,28.4,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Maruti Suzuki,Dzire,Vdi Amt,804622,Sedan,1248,4,Injection,37,Diesel,28.4,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Dzire,Zdi Plus Amt,952622,Sedan,1248,4,Injection,37,Diesel,28.4,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Ford,Freestyle,1.5L Tdci Ambiente,676400,Crossover,1498,4,Injection,40,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Ford,Freestyle,1.5L Tdci Titanium,790900,Hatchback,1498,4,Injection,40,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Ford,Freestyle,1.5L Tdci Titanium Plus,836400,Hatchback,1498,4,Injection,40,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,No
+Ford,Freestyle,1.2L Ti-Vct Ambiente,591400,Hatchback,1194,3,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Ford,Freestyle,1.2L Ti-Vct Titanium,721400,Hatchback,1194,3,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Ford,Freestyle,1.2L Ti-Vct Titanium Plus,756400,Hatchback,1194,3,Injection,42,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,No
+Ford,Freestyle,1.2L Ti-Vct Trend Plus,681400,Crossover,1194,3,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Ford,Freestyle,1.5L Tdci Trend Plus,745900,Crossover,1498,3,Injection,42,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Volkswagen,Ameo,Trendline 1.5L Tdi,711500,Sedan,1498,4,Injection,45,Diesel,15.3,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Volkswagen,Ameo,Comfortline 1.5L Tdi,810500,Sedan,1498,4,Injection,45,Diesel,15.3,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Volkswagen,Ameo,Highline Plus 1.5L Tdi Dsg,999900,Sedan,1498,4,Injection,45,Diesel,15.3,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Volkswagen,Ameo,Highline Plus 1.5L Tdi,925500,Sedan,1498,4,Injection,45,Diesel,15.3,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Volkswagen,Ameo,Trendline 1.0L,594000,Sedan,999,3,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Volkswagen,Ameo,Comfortline 1.0L,665000,Sedan,999,3,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Volkswagen,Ameo,Highline Plus 1.0L,799900,Sedan,999,3,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Volkswagen,Ameo,Gt Line Tdi Dsg,999900,Sedan,1498,4,Injection,45,Diesel,15.3,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Ford,Aspire,1.2 Ti-Vct Ambiente,598500,Sedan,1194,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Ford,Aspire,1.2 Ti-Vct Trend Plus,697400,Sedan,1194,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Ford,Aspire,1.2 Ti-Vct Trend,663400,Sedan,1194,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Ford,Aspire,1.5 Tdci Ambiente,699400,Sedan,1498,4,Injection,40,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Ford,Aspire,1.5 Tdci Trend,737400,Sedan,1498,4,Injection,40,Diesel,15.5,5.0,2.0,No,2.0,Rear sensors with camera,No
+Ford,Aspire,1.5 Tdci Trend Plus,777400,Sedan,1498,4,Injection,40,Diesel,15.5,5.0,2.0,No,2.0,Rear sensors,Yes
+Ford,Aspire,1.5 Tdci Titanium,817400,Sedan,1498,4,Injection,40,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Ford,Aspire,1.5 Tdci Titanium Plus,862400,Sedan,1498,4,Injection,40,Diesel,15.5,5.0,2.0,Yes,6.0,No Sensors,Yes
+Ford,Aspire,1.2 Ti-Vct Titanium Plus,782400,Sedan,1194,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors,Yes
+Ford,Aspire,1.2 Ti-Vct Titanium,737400,Sedan,1194,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Ford,Aspire,1.2 Trend Plus Cng,758314,Sedan,1194,4,Injection,42,CNG,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Ford,Aspire,1.2 Ti-Vct Blu,762400,Sedan,1194,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Ford,Aspire,1.5 Tdci Blu,842400,Sedan,1498,4,Injection,40,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Toyota,Platinum Etios,G,627100,Sedan,1496,4,Injection,45,Petrol,13.6,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Platinum Etios,V,718600,Sedan,1496,4,Injection,45,Petrol,13.6,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Platinum Etios,Gd,734700,Sedan,1364,4,Injection,45,Diesel,20.32,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Platinum Etios,Vd,828600,Sedan,1364,4,Injection,45,Diesel,20.3,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Platinum Etios,Vxd,888400,Sedan,1364,4,Injection,45,Diesel,20.32,5.0,3.0,Yes,2.0,Rear sensors,No
+Toyota,Platinum Etios,Vx,778400,Sedan,1496,4,Injection,45,Petrol,13.6,5.0,2.0,Yes,2.0,Rear sensors,No
+Toyota,Platinum Etios,Gx,689600,Sedan,1496,4,Injection,45,Petrol,13.6,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Platinum Etios,Gxd,799600,Sedan,1364,4,Injection,45,Diesel,20.3,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Platinum Etios,Vxd Limited Edition,913400,Sedan,1364,4,Injection,45,Diesel,20.32,5.0,3.0,Yes,2.0,Rear sensors,No
+Toyota,Platinum Etios,Vx Limited Edition,803400,Sedan,1496,4,Injection,45,Petrol,13.6,5.0,2.0,Yes,2.0,Rear sensors,No
+Toyota,Etios Cross,V,802000,Hatchback,1496,4,Injection,45,Petrol,15.0,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Cross,G,650000,Hatchback,1197,4,Injection,45,Petrol,16.78,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Cross,Vd,797500,Hatchback,1364,4,Injection,45,Diesel,18.1,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Cross,Gd,766000,Hatchback,1364,4,Injection,45,Diesel,18.1,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Cross,1.2 X Edition,668500,Hatchback,1197,4,Injection,45,Petrol,16.78,5.0,3.0,Yes,2.0,No Sensors,No
+Toyota,Etios Cross,1.4 X Edition,816000,Hatchback,1364,4,Injection,45,Diesel,18.1,5.0,3.0,Yes,2.0,No Sensors,No
+Mahindra,Verito Vibe,D2,657628,Hatchback,1461,4,Injection,50,Diesel,18.0,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Verito Vibe,D4,685729,Hatchback,1461,4,Injection,50,Diesel,18.0,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Verito Vibe,D6,750428,Hatchback,1461,4,Injection,50,Diesel,18.0,5.0,2.0,Yes,1.0,No Sensors,No
+Fiat,Urban Cross,1.3 Multijet Active,677618,Crossover,1248,4,Injection,45,Diesel,20.0,5.0,2.0,Yes,2.0,No Sensors,Yes
+Fiat,Urban Cross,1.3 Multijet Dynamic,739074,Crossover,1248,4,Injection,45,Diesel,20.0,5.0,2.0,Yes,2.0,No Sensors,Yes
+Fiat,Urban Cross,1.4 T-Jet Emotion,977516,Crossover,1368,4,Injection,45,Petrol,17.0,5.0,2.0,Yes,2.0,No Sensors,Yes
+Fiat,Urban Cross,1.3 Multijet Emotion,810211,Crossover,1248,4,Injection,45,Diesel,20.0,5.0,2.0,Yes,2.0,No Sensors,Yes
+Toyota,Glanza,G Hybrid,721900,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Toyota,Glanza,V,758200,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Toyota,Glanza,G Cvt,829900,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Toyota,Glanza,V Cvt,890200,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Toyota,Glanza,G Mt,697900,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Fiat,Avventura,Multijet Dynamic,796132,Crossover,1248,4,Injection,45,Diesel,11.2,5.0,3.0,Yes,2.0,No Sensors,No
+Fiat,Avventura,Multijet Active,711801,Crossover,1248,4,Injection,45,Diesel,11.2,5.0,3.0,Yes,2.0,No Sensors,No
+Fiat,Avventura,Multijet Emotion,876341,Crossover,1248,4,Injection,45,Diesel,11.2,5.0,3.0,Yes,2.0,No Sensors,No
+Honda,Jazz,V Petrol,745000,Hatchback,1199,4,Injection,40,Petrol,11.3,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Honda,Jazz,Vx Cvt,909000,Hatchback,1199,4,Injection,40,Petrol,11.3,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Honda,Jazz,Vx Petrol,789000,Hatchback,1199,4,Injection,40,Petrol,11.3,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Jazz,V Cvt,865000,Hatchback,1199,4,Injection,40,Petrol,11.3,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Honda,Jazz,S Diesel,816500,Hatchback,1498,4,Injection,40,Diesel,12.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Jazz,V Diesel,896500,Hatchback,1498,4,Injection,40,Diesel,12.0,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Honda,Jazz,Vx Diesel,940500,Hatchback,1498,4,Injection,40,Diesel,12.0,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Jazz,Exclusive Edition Cvt,928000,Hatchback,1199,4,Injection,40,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Jeep,Compass Trailhawk,2.0 Trailhawk 4X4 At,2680000,SUV,1956,4,Injection,60,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Jeep,Compass Trailhawk,2.0 Trailhawk (O) 4X4 At,2760000,SUV,1956,4,Injection,60,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Isuzu,Mu-X,4X2,2734834,SUV,2999,4,Injection,76,Diesel,13.8,7.0,3.0,Yes,2.0,Rear sensors with camera,No
+Isuzu,Mu-X,4X4,2931534,SUV,2999,4,Injection,76,Diesel,13.8,7.0,3.0,Yes,2.0,Rear sensors with camera,No
+Mahindra,Alturas G4,4Wd At,3070150,SUV,2157,4,Injection,70,Diesel,15.5,7.0,2.0,Yes,9.0,Front & rear sensors with 360 degree view,Yes
+Volkswagen,Tiguan,Comfortline 2.0L Tdi Amt,2814500,SUV,1968,4,Injection,71,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors,Yes
+Volkswagen,Tiguan,Highline 2.0L Tdi Amt,3153500,SUV,1968,4,Injection,71,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Honda,Cr-V,2Wd Petrol Cvt,2827001,SUV,1997,4,Injection,57,Petrol,15.5,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Honda,Cr-V,2Wd Diesel At,3067001,SUV,1597,4,Injection,57,Diesel,15.5,7.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Honda,Cr-V,Awd Diesel At,3277001,SUV,1597,4,Injection,57,Diesel,15.5,7.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Skoda,Superb Sportline,Sportline 1.8L Tsi At,2899599,Sedan,1798,4,Injection,66,Petrol,11.3,5.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Skoda,Superb Sportline,Sportline 2.0L Tdi At,3149599,Sedan,1968,4,Injection,66,Diesel,15.1,5.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Audi,A3,35 Tdi Premium Plus,3021200,Sedan,1968,4,Injection,50,Diesel,18.0,5.0,2.0,Yes,9.0,Rear sensors,No
+Audi,A3,35 Tdi Technology,3221200,Sedan,1968,4,Injection,50,Diesel,18.0,5.0,2.0,Yes,9.0,Rear sensors with camera,Yes
+Audi,A3,35 Tfsi Premium Plus,2920750,Sedan,1395,4,Injection,50,Petrol,12.4,5.0,2.0,Yes,9.0,Rear sensors,No
+Audi,A3,35 Tfsi Technology,3120750,Sedan,1395,4,Injection,50,Petrol,12.4,5.0,2.0,Yes,9.0,Rear sensors,No
+Skoda,Kodiaq,Style 2.0 Tdi 4X4 At,3299599,SUV,1968,4,Injection,66,Diesel,15.1,5.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Skoda,Kodiaq,Laurin And Klement,3678599,SUV,1968,4,Injection,66,Diesel,15.1,5.0,3.0,Yes,9.0,Front and rear sensors with camera,Yes
+Skoda,Kodiaq,Corporate Edition,3299599,SUV,1968,4,Injection,66,Diesel,15.1,5.0,3.0,Yes,9.0,Front and rear sensors with camera,Yes
+Dc,Avanti,Standard,3407407,Coupe,2000,4,Injection,60,Petrol,8.0,2.0,2.0,No,2.0,No Sensors,No
+Audi,Q3,30 Tdi Premium Fwd,3677200,SUV,1968,4,Injection,64,Diesel,12.0,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Audi,Q3,35 Tdi Quattro Premium Plus,3992200,SUV,1968,4,Injection,64,Diesel,12.0,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Audi,Q3,35 Tdi Quattro Technology,4361000,SUV,1968,4,Injection,64,Diesel,12.0,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Audi,Q3,30 Tfsi Premium,3496750,SUV,1395,4,Injection,64,Petrol,12.0,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Mini,Cooper 5 Door,Cooper D,3600000,Hatchback,1496,3,Injection,44,Petrol,10.3,5.0,2.0,Yes,2.0,No Sensors,Yes
+Mini,Convertible,Cooper S,3830000,Convertible,1998,4,Injection,44,Petrol,15.5,4.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Volvo,Xc40,D4 Momentum,3990000,SUV,1969,5,Injection,45,Diesel,15.5,5.0,2.0,Yes,7.0,Rear sensors with camera,Yes
+Volvo,Xc40,D4 Inscription,4390000,SUV,1969,5,Injection,45,Diesel,15.5,5.0,2.0,Yes,7.0,Rear sensors with camera,Yes
+Volvo,Xc40,T4 R-Design,3990000,SUV,1969,5,Injection,54,Petrol,15.5,5.0,2.0,Yes,8.0,Rear sensors with camera,Yes
+Mini,Clubman,Cooper S,4120000,Hatchback,1998,4,Injection,45,Petrol,12.3,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Audi,A4,Premium Plus 35 Tfsi,4149000,Sedan,1395,4,Injection,54,Petrol,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Audi,A4,Technology 35 Tfsi,4507000,Sedan,1395,4,Injection,54,Petrol,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Mini,John Cooper Works,Hatch,4350000,"Sports, Hatchback",1998,4,Injection,44,Petrol,15.5,2.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Jaguar,Xe,S Petrol,4498000,Sedan,1997,4,Injection,61,Petrol,15.5,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Jaguar,Xe,S Diesel,4498000,Sedan,1999,4,Injection,56,Diesel,15.5,4.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Jaguar,Xe,Se Diesel,4633000,Sedan,1999,4,Injection,56,Diesel,15.5,4.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Jaguar,Xe,Se Petrol,4633000,Sedan,1997,4,Injection,61,Petrol,15.5,5.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Jaguar,Xf,2.0 Prestige,5436329,Sedan,1999,4,Injection,74,Petrol,5.7,5.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Jaguar,Xf,2.0 Portfolio,6073446,Sedan,1999,4,Injection,82,Petrol,5.7,5.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Jaguar,Xf,2.0 Portfolio Diesel,6138811,Sedan,1999,4,Injection,83,Diesel,5.7,5.0,3.0,Yes,6.0,No Sensors,Yes
+Jaguar,Xf,2.0 Prestige Diesel,5506622,Sedan,1999,4,Injection,66,Diesel,5.7,5.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Jaguar,Xf,2.0 Pure Diesel,4977080,Sedan,1999,4,Injection,66,Diesel,5.7,5.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Audi,A3 Cabriolet,40 Tfsi,5038000,Convertible,1395,4,Injection,50,Petrol,19.2,4.0,2.0,Yes,7.0,Rear sensors with camera,Yes
+Audi,A6,Premium Plus 45 Tfsi,5442200,Sedan,1984,4,Injection,73,Petrol,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Audi,A6,Technology 45 Tfsi,5942200,Sedan,1984,4,Injection,73,Petrol,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Bmw,X3,Xdrive 20D Luxury Line,5930000,SUV,1995,4,Injection,67,Diesel,16.0,5.0,2.0,Yes,6.0,Rear sensors with camera,No
+Bmw,X3,Xdrive 30I Luxury Line,5880000,SUV,1998,4,Injection,67,Petrol,16.0,5.0,2.0,Yes,6.0,Rear sensors with camera,No
+Bmw,X3,Xdrive20D Xline,5600000,SUV,1995,4,Injection,67,Diesel,16.0,5.0,2.0,Yes,6.0,Rear sensors with camera,No
+Land Rover,Discovery Sport,S,5706000,SUV,1999,4,Injection,70,Diesel,15.5,7.0,3.0,Yes,7.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Discovery Sport,R-Dynamic Se,6089000,SUV,1999,4,Injection,70,Diesel,15.5,7.0,3.0,Yes,7.0,Front & rear sensors with 360 degree view,Yes
+Volvo,S90,D4 Inscription,5890000,Sedan,1969,4,Injection,45,Diesel,11.44,5.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Audi,S5,Sportback,7243000,Sedan,2995,6,Injection,58,Petrol,15.5,5.0,2.0,Yes,10.0,Front and rear sensors with camera,Yes
+Bmw,X5,Xdrive30D Sport,7330000,SUV,2993,6,Injection,45,Diesel,15.5,5.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Bmw,X5,Xdrive30D Xline,8290000,SUV,2993,6,Injection,45,Diesel,15.5,5.0,2.0,Yes,8.0,Front and rear sensors,Yes
+Bmw,X5,Xdrive40I M Sport,8290000,SUV,2998,6,Injection,45,Petrol,15.5,5.0,2.0,Yes,8.0,Front and rear sensors,Yes
+Ford,Mustang,Fastback V8,7462000,"Sedan, Coupe",4951,8,Injection,60,Petrol,10.0,4.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Jeep,Grand Cherokee,Limited,7882867,SUV,2987,6,Injection,93,Diesel,12.8,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Jeep,Grand Cherokee,Summit,8931819,SUV,2987,6,Injection,93,Diesel,12.8,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Jeep,Grand Cherokee,Srt,11400000,SUV,6417,8,Injection,93,Petrol,12.8,5.0,2.0,Yes,7.0,Front and rear sensors with camera,Yes
+Jeep,Grand Cherokee,Summit Petrol,7515000,SUV,3604,6,Injection,93,Petrol,15.5,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bmw,M2 Competition,Coupe,8180000,Coupe,2979,6,Injection,52,Petrol,12.6,4.0,2.0,No,10.0,Front and rear sensors with camera,Yes
+Porsche,718,Boxster,8995000,Convertible,1988,4,Injection,54,Petrol,9.0,2.0,2.0,Yes,4.0,Front and rear sensors with camera,Yes
+Porsche,718,Cayman,8595000,Coupe,1988,4,Injection,54,Petrol,9.0,2.0,2.0,Yes,4.0,Front and rear sensors with camera,Yes
+Toyota,Land Cruiser Prado,Vx L,9630000,SUV,2982,4,Injection,87,Diesel,7.0,7.0,3.0,Yes,7.0,Front and rear sensors with camera,Yes
+Lexus,Rx 450H,450Hl Luxury,9900000,SUV,3456,6,Injection,65,Petrol,18.8,5.0,2.0,Yes,10.0,Front & rear sensors with 360 degree view,Yes
+Audi,Rs5,Coupe,11141200,Coupe,2894,8,Injection,58,Petrol,15.5,4.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bmw,7-Series,730Ld Design Pure Excellence,12290000,Sedan,2993,6,Injection,78,Diesel,13.5,4.0,3.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Bmw,7-Series,730Ld Design Pure Excellence Signature,13200000,Sedan,2993,6,Injection,78,Diesel,13.5,4.0,3.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Bmw,7-Series,730Ld M Sport,13510000,Sedan,2993,6,Injection,78,Diesel,13.5,4.0,3.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Bmw,7-Series,740Li Design Pure Excellence Signature,13510000,Sedan,2998,6,Injection,78,Petrol,15.5,4.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Bmw,7-Series,745Le Xdrive,16500000,Sedan,2998,6,Injection,46,Hybrid,15.5,4.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Bmw,7-Series,M760Li Xdrive,24250000,Sedan,6592,12,Injection,78,Petrol,15.5,4.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Audi,Q8,55 Tfsi Quattro Tiptronic,13359500,SUV,2995,4,Injection,85,Petrol,15.5,7.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Maserati,Levante,Diesel,14512054,SUV,2987,6,Injection,80,Diesel,5.2,4.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Maserati,Levante,Gransport,14863774,SUV,2979,6,Injection,80,Diesel,5.2,4.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Maserati,Levante,Granlusson,15383399,SUV,2979,6,Injection,80,Diesel,5.2,4.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Audi,A8 L,55 Tfsi Quattro,15600000,Sedan,2995,8,Injection,82,Petrol,15.5,4.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Maserati,Granturismo,Sport,17229579,Coupe,4691,8,Injection,86,Petrol,4.6,4.0,2.0,Yes,6.0,Varied sensors,Yes
+Maserati,Quattroporte,Granlusso,17900000,Sports,2987,6,Injection,70,Diesel,5.2,4.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Lexus,Lc 500H,Coupe,19600000,Coupe,3456,6,Injection,82,Hybrid,15.5,4.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Porsche,Panamera,Turbo,21263000,Sedan,3996,8,Injection,90,Petrol,7.1,4.0,4.0,Yes,6.0,Front and rear sensors with camera,Yes
+Porsche,Panamera,Turbo Executive,22613000,Sedan,3996,8,Injection,90,Petrol,7.1,4.0,4.0,Yes,6.0,Front and rear sensors with camera,Yes
+Porsche,Panamera,Turbo Sport Turismo,21747000,Sedan,3996,8,Injection,90,Petrol,7.1,4.0,4.0,Yes,6.0,Front and rear sensors with camera,Yes
+Lexus,Lx 450D,V8,23290000,SUV,4461,4,Injection,93,Diesel,18.0,7.0,2.0,Yes,10.0,Front & rear sensors with 360 degree view,Yes
+Audi,R8,V10 Plus,27245000,Coupe,5204,10,Injection,75,Petrol,7.8,2.0,2.0,Yes,8.0,Rear sensors,Yes
+Lamborghini,Urus,V8,30000000,SUV,3996,8,Injection,75,Petrol,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Bentley,Continental Gt,Coupe,33791059,Coupe,5998,12,Injection,90,Petrol,5.3,4.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Ferrari,Portofino,V8 Convertible,35000000,Convertible,3855,8,Injection,92,Petrol,6.0,2.0,2.0,Yes,4.0,Front and rear sensors with camera,Yes
+Bentley,Bentayga,W12,45941557,SUV,5950,12,PGM - Fi,85,Petrol,9.6,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bentley,Bentayga,V8,37542069,SUV,3996,12,PGM - Fi,85,Petrol,15.5,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Aston Martin,Db 11,V12,40456503,Coupe,5198,12,Injection,80,Petrol,6.0,2.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Ferrari,458 Speciale,Coupe,42531500,Coupe,4497,8,Injection,86,Petrol,6.0,2.0,3.0,Yes,5.0,Front & rear sensors with 360 degree view,Yes
+Bentley,Mulsanne,Sedan,52571294,Sedan,6752,8,Injection,90,Petrol,6.2,4.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bugatti,Chiron,W16,192142937,Sports,7993,16,PGM - Fi,45,Petrol,15.5,2.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Bugatti,Chiron,Sport,212155397,Sports,7993,16,PGM - Fi,45,Petrol,15.5,2.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Bajaj,Qute (Re60),Qcar,263000,Hatchback,216,4,Injection,45,Petrol,15.5,4.0,2.0,Yes,2.0,No Sensors,No
+Bajaj,Qute (Re60),Qcar Cng,283000,Hatchback,216,4,Injection,45,CNG,15.5,4.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Alto,Std,294800,Hatchback,796,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Alto,Std (O),299900,Hatchback,796,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Alto,Lxi,352900,Hatchback,796,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Alto,Lxi (O),357200,Hatchback,796,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Alto,Vxi,376100,Hatchback,796,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Alto,Lxi Cng (Cng +,405570,Hatchback,796,3,Injection,35,CNG + Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Alto,Lxi (O) Cng (Cng +,409190,Hatchback,796,3,Injection,35,CNG + Petrol,15.5,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Alto,Vxi Plus,389600,Hatchback,796,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,S-Presso,Std,370500,Hatchback,998,3,Injection,27,Petrol,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,S-Presso,Std (O),376500,Hatchback,998,3,Injection,27,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,S-Presso,Lxi,409000,Hatchback,998,3,Injection,27,Petrol,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,S-Presso,Lxi (O),415000,Hatchback,998,3,Injection,27,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,S-Presso,Vxi,432500,Hatchback,998,3,Injection,27,Petrol,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,S-Presso,Vxi (O),438500,Hatchback,998,3,Injection,27,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,S-Presso,Vxi Ags,475500,Hatchback,998,3,Injection,27,Petrol,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,S-Presso,Vxi+,456000,Hatchback,998,3,Injection,27,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,S-Presso,Vxi (O) Ags,481500,Hatchback,998,3,Injection,27,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,S-Presso,Vxi+ Ags,499000,Hatchback,998,3,Injection,27,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Celerio,Lxi,426289,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio,Vxi,465138,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio,Vxi At,508138,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio,Zxi,490924,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Celerio,Zxi (Opt),531279,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio,Vxi Cng Mt,530000,Hatchback,998,3,Injection,35,CNG,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio,Zxi Ags,533924,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,1.0,No Sensors,No
+Maruti Suzuki,Celerio,Lxi Mt (O),434659,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio,Vxi (O) Mt,472257,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio,Vxi (O) Ags,515257,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Celerio,Zxi (O) Ags,543279,Hatchback,998,3,Injection,35,Petrol,23.0,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Grand I10 Prime,Era T Crdi,551530,Hatchback,1120,3,Injection,43,Diesel,24.0,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Grand I10 Prime,Era T+ Crdi,568930,Hatchback,1120,3,Injection,43,Diesel,24.0,5.0,2.0,Yes,1.0,Rear sensors with camera,No
+Hyundai,Grand I10 Prime,Era T Vtvt,460369,Hatchback,1197,4,Injection,43,Petrol,18.9,5.0,2.0,Yes,1.0,No Sensors,No
+Hyundai,Grand I10 Prime,Era T+ Vtvt,477511,Hatchback,1197,4,Injection,43,Petrol,18.9,5.0,2.0,Yes,1.0,No Sensors,No
+Hyundai,Grand I10 Prime,Era T+ Cng Vtvt,545946,Hatchback,1197,4,Injection,43,CNG,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Grand I10 Prime,Era T Cng Vtvt,528804,Hatchback,1197,4,Injection,43,CNG,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K2 6Str,488194,Hatchback,1198,3,Injection,35,Petrol,15.5,6.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K2+ 6Str,532184,Hatchback,1198,3,Injection,35,Petrol,15.5,6.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K2 D 6Str,590798,Hatchback,1198,3,Injection,35,Diesel,22.25,6.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K2+ D 6Str,619243,Hatchback,1198,3,Injection,35,Diesel,22.25,6.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K4+ D 6Str,667273,Hatchback,1198,3,Injection,35,Diesel,22.25,6.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K4+ 6Str,579645,Hatchback,1198,3,Injection,35,Petrol,15.5,6.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K6+ 6Str,631144,Hatchback,1198,3,Injection,35,Petrol,15.5,6.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K6+ D 6Str,754548,Hatchback,1198,3,Injection,35,Diesel,22.25,6.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K8 6Str,693550,Hatchback,1198,3,Injection,35,Petrol,15.5,6.0,2.0,Yes,2.0,No Sensors,Yes
+Mahindra,Kuv100 Nxt,K8 D 6Str,787304,Hatchback,1198,3,Injection,35,Diesel,22.25,6.0,2.0,Yes,2.0,No Sensors,Yes
+Mahindra,Kuv100 Nxt,K8 6 Str Dual Tone,701045,Hatchback,1198,3,Injection,35,Petrol,15.5,6.0,2.0,Yes,2.0,No Sensors,Yes
+Mahindra,Kuv100 Nxt,K8 D 6 Str Dual Tone,794800,Hatchback,1198,3,Injection,35,Diesel,22.25,6.0,2.0,Yes,2.0,No Sensors,Yes
+Mahindra,Kuv100 Nxt,K4+ 5Str,573250,Hatchback,1198,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K6+ 5Str,631146,Hatchback,1198,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K8 5Str,687175,Hatchback,1198,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,Yes
+Mahindra,Kuv100 Nxt,K4+ D 5Str,660832,Hatchback,1198,3,Injection,35,Diesel,22.25,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K6+ D 5Str,748128,Hatchback,1198,3,Injection,35,Diesel,22.25,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K8 D 5Str,780884,Hatchback,1198,3,Injection,35,Diesel,22.25,5.0,2.0,Yes,2.0,No Sensors,Yes
+Mahindra,Kuv100 Nxt,K2 D 5Str Taxi,550155,Hatchback,1198,3,Injection,35,Diesel,22.25,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K2 D 6Str Taxi,559741,Hatchback,1198,3,Injection,35,Diesel,22.25,6.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K2 5Str Cng Taxi,524312,Hatchback,1198,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Kuv100 Nxt,K2 6Str Cng Taxi,542913,Hatchback,1198,3,Injection,35,Petrol,15.5,6.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Swift,Lxi,519000,Hatchback,1197,4,Injection,37,Petrol,12.6,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Swift,Vxi,619000,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Swift,Vxi Amt,666000,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Swift,Zxi,678000,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Swift,Zxi Amt,725000,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Swift,Zxi Plus,758000,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Maruti Suzuki,Swift,Ldi,599000,Hatchback,1248,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Swift,Vdi,698000,Hatchback,1248,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Swift,Vdi Amt,745000,Hatchback,1248,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Swift,Zdi,757000,Hatchback,1248,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Swift,Zdi Amt,804000,Hatchback,1248,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Swift,Zdi Plus,838000,Hatchback,1248,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Swift,Zxi Plus Amt,802000,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Swift,Zdi Plus Amt,884000,Hatchback,1248,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Altroz,Xe Petrol,529000,Hatchback,1199,3,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Altroz,Xm Petrol,615000,Hatchback,1199,3,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Altroz,Xt Petrol,684000,Hatchback,1199,3,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Altroz,Xz Petrol,744000,Hatchback,1199,3,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Altroz,Xz (O) Petrol,769000,Hatchback,1199,3,Injection,37,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Altroz,Xe Diesel,699000,Hatchback,1497,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Altroz,Xm Diesel,775000,Hatchback,1497,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Altroz,Xt Diesel,844000,Hatchback,1497,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Altroz,Xz Diesel,904000,Hatchback,1497,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Altroz,Xz (O) Diesel,929000,Hatchback,1497,4,Injection,37,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Icml,Extreme,Ld Di Non Ac 9 Seater Bsiii,642478,SUV,1994,4,Injection,50,Diesel,8.6,9.0,2.0,Yes,2.0,Rear sensors with camera,No
+Icml,Extreme,Ld Crdfi Non Ac 9 Seater Bsiv,589678,SUV,1994,4,Injection,50,Diesel,8.6,9.0,2.0,Yes,2.0,Rear sensors with camera,No
+Icml,Extreme,Ld Di Ps Ac 9 Seater Bsiii,689761,SUV,1994,4,Injection,50,Diesel,8.6,9.0,2.0,Yes,2.0,Rear sensors with camera,No
+Icml,Extreme,Ld Crdfi Ps Ac 9 Seater Bsiii,788177,SUV,1994,4,Injection,50,Diesel,8.6,9.0,2.0,Yes,2.0,Rear sensors with camera,No
+Icml,Extreme,Sd Di 9 Seater Bsiii,2650777,SUV,1994,4,Injection,50,Diesel,8.6,9.0,2.0,Yes,2.0,Rear sensors with camera,No
+Icml,Extreme,Ld Crdfi Ps Ac 9 Seater Bsiv,628072,SUV,1994,4,Injection,50,Diesel,8.6,9.0,2.0,Yes,2.0,Rear sensors with camera,No
+Icml,Extreme,Vd Crdfi 7 Seater Bsiii,900967,SUV,1994,4,Injection,50,Diesel,8.6,7.0,2.0,Yes,2.0,Rear sensors with camera,No
+Icml,Extreme,Vd Di 7 Seater Bsiii,1465148,SUV,1994,4,Injection,50,Diesel,8.6,7.0,2.0,Yes,2.0,Rear sensors with camera,No
+Icml,Extreme,Sd Crdfi 9 Seater Bsiv,552890,SUV,1994,4,Injection,50,Diesel,8.6,9.0,2.0,Yes,2.0,Rear sensors with camera,No
+Icml,Extreme,Vd Crdfi 7 Seater Bsiv,927689,SUV,1994,4,Injection,50,Diesel,8.6,7.0,2.0,Yes,2.0,Rear sensors with camera,No
+Icml,Extreme,Sd Crdfi 9 Seater Bsiii,835275,SUV,1994,4,Injection,50,Diesel,8.6,9.0,2.0,Yes,2.0,Rear sensors with camera,No
+Tata,Tigor,Revotron Xe,575000,Sedan,1199,3,Injection,35,Petrol,24.12,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Tigor,Revotron Xm,610000,Sedan,1199,3,Injection,35,Petrol,24.12,5.0,2.0,Yes,2.0,No Sensors,Yes
+Tata,Tigor,Revotron Xz,650000,Sedan,1199,3,Injection,35,Petrol,24.12,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Tigor,Revotron Xz Plus,699000,Sedan,1199,3,Injection,35,Petrol,24.12,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Tigor,Revotron Xma,660000,Sedan,1199,3,Injection,35,Petrol,24.12,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Tigor,Revotron Xza Plus,749000,Sedan,1199,3,Injection,35,Petrol,24.12,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Zest,Xe Petrol,582287,Sedan,1193,4,Injection,44,Petrol,13.2,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Zest,Xe Diesel,702946,Sedan,1248,4,Injection,44,Diesel,19.2,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Zest,Xm Petrol,653926,Sedan,1193,4,Injection,44,Petrol,13.2,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Zest,Xms Petrol,672641,Sedan,1193,4,Injection,44,Petrol,13.2,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Zest,Xt Petrol,732475,Sedan,1193,4,Injection,44,Petrol,13.2,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Zest,Xm Diesel,767317,Sedan,1248,4,Injection,44,Diesel,19.2,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Zest,Xms Diesel,793898,Sedan,1248,4,Injection,44,Diesel,19.2,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Zest,Xt Diesel,855362,Sedan,1248,4,Injection,44,Diesel,19.2,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Zest,Xma Diesel,836320,Sedan,1248,4,Injection,44,Diesel,19.2,5.0,2.0,Yes,2.0,No Sensors,No
+Tata,Zest,Xta Diesel,989000,Sedan,1248,4,Injection,44,Diesel,19.2,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Tata,Zest,Zest Premio Edition,788797,Sedan,1248,4,Injection,44,Diesel,19.2,5.0,2.0,Yes,2.0,No Sensors,Yes
+Honda,Amaze,S Cvt Petrol,763000,Sedan,1199,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Amaze,E Mt Diesel,705000,Sedan,1498,4,Injection,35,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Amaze,E Mt Petrol,593000,Sedan,1199,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Amaze,S Cvt Diesel,865000,Sedan,1498,4,Injection,35,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Amaze,V Cvt Petrol,823000,Sedan,1199,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Amaze,V Cvt Diesel,925000,Sedan,1498,4,Injection,35,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Amaze,S Mt Diesel,785000,Sedan,1498,4,Injection,35,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Amaze,Vx Mt Diesel,893000,Sedan,1498,4,Injection,35,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Amaze,V Mt Diesel,845000,Sedan,1498,4,Injection,35,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Amaze,Vx Mt Petrol,781000,Sedan,1199,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Amaze,V Mt Petrol,733000,Sedan,1199,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Amaze,S Mt Petrol,673000,Sedan,1198,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Amaze,Exclusive Edition Diesel,906000,Sedan,1498,4,Injection,35,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Amaze,Exclusive Edition Petrol,794000,Sedan,1199,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Amaze,Vx Cvt Diesel,966000,Sedan,1498,4,Injection,35,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Amaze,Vx Cvt Petrol,864000,Sedan,1199,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Amaze,Ace Edition Cvt Diesel,979300,Sedan,1498,4,Injection,35,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Amaze,Ace Edition Cvt Petrol,877300,Sedan,1199,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Amaze,Ace Edition Mt Diesel,906300,Sedan,1498,4,Injection,35,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Amaze,Ace Edition Mt Petrol,794300,Sedan,1199,4,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Gypsy,Hard Top,637343,SUV,1298,4,Injection,40,Petrol,10.2,8.0,2.0,No,2.0,No Sensors,No
+Maruti Suzuki,Gypsy,Soft Top,622730,SUV,1298,4,Injection,40,Petrol,10.2,8.0,2.0,No,2.0,No Sensors,No
+Hyundai,Venue,1.2 Kappa Mt E,655000,SUV,1197,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Hyundai,Venue,1.0 Turbo Gdi Mt S,826000,SUV,998,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Hyundai,Venue,1.4 Crdi Mt E,780000,SUV,1397,4,Injection,45,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx,959000,SUV,998,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx Dual Tone,974000,SUV,998,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx(O),1065000,SUV,998,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Venue,1.0 Turbo Gdi Dct S,940000,SUV,998,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Venue,1.0 Turbo Gdi Dct Sx Plus,1115500,SUV,998,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Venue,1.2 Kappa Mt S,725000,SUV,1197,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Hyundai,Venue,1.4 Crdi Mt S,850000,SUV,1397,4,Injection,45,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Venue,1.4 Crdi Mt Sx,983000,SUV,1397,4,Injection,45,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Venue,1.4 Crdi Mt Sx Dual Tone,998000,SUV,1397,4,Injection,45,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Venue,1.4 Crdi Mt Sx(O),1089000,SUV,1397,4,Injection,45,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Tata,Nexon,Xe,695000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,Yes
+Tata,Nexon,Xm,770000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Nexon,Xz,870000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xz Plus,950000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xz Plus Dual Tone,970000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xz Plus (O),1040000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xz Plus (O) Dual Tone,1060000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xma,830000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Nexon,Xza Plus,1010000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xza Plus Dual Tone,1030000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xza Plus (O),1100000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xza Plus (O) Dual Tone,1120000,SUV,1198,3,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xe Diesel,845000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,Yes
+Tata,Nexon,Xm Diesel,920000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Nexon,Xz Diesel,1020000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xz Plus Diesel,1100000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xz Plus Diesel Dual Tone,1120000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xz Plus (O) Diesel,1190000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xz Plus (O) Diesel Dual Tone,1210000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xma Diesel,980000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Nexon,Xza Plus Diesel,1160000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xza Plus Diesel Dual Tone,1180000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xza Plus (O) Diesel,1250000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Nexon,Xza Plus (O) Diesel Dual Tone,1270000,SUV,1497,4,Injection,44,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Fiat,Linea,Active Fire,715860,Sedan,1368,4,Injection,45,Petrol,11.3,5.0,3.0,Yes,2.0,No Sensors,No
+Fiat,Linea,Active Multijet,862175,Sedan,1248,4,Injection,45,Diesel,17.2,5.0,3.0,Yes,2.0,No Sensors,No
+Fiat,Linea,Dynamic Multijet,932025,Sedan,1248,4,Injection,45,Diesel,17.2,5.0,3.0,Yes,2.0,Rear sensors,No
+Fiat,Linea,Emotion Multijet,991434,Sedan,1248,4,Injection,45,Diesel,17.2,5.0,3.0,Yes,2.0,No Sensors,No
+Fiat,Linea,T-Jet Emotion,997763,Sedan,1368,4,Injection,45,Petrol,11.3,5.0,3.0,Yes,2.0,Rear sensors,No
+Mahindra,Bolero Power Plus,Zlx,886398,SUV,1493,4,Injection,60,Diesel,12.4,7.0,3.0,Yes,2.0,No Sensors,No
+Mahindra,Bolero Power Plus,Slx,851302,SUV,1493,4,Injection,60,Diesel,12.4,7.0,3.0,Yes,2.0,No Sensors,No
+Mahindra,Bolero Power Plus,Sle,785656,SUV,1493,4,Injection,60,Diesel,12.4,7.0,3.0,Yes,2.0,No Sensors,No
+Mahindra,Bolero Power Plus,Lx,749192,SUV,1493,4,Injection,60,Diesel,12.4,7.0,3.0,Yes,1.0,Rear sensors,No
+Mahindra,Bolero Power Plus,Plus Ac Bs4 Ps,859497,SUV,2523,4,Injection,60,Diesel,9.4,7.0,2.0,Yes,2.0,Rear sensors with camera,No
+Mahindra,Bolero Power Plus,Plus Non Ac Bs4 Ps,819117,SUV,2523,4,Injection,60,Diesel,12.4,9.0,2.0,No,2.0,Rear sensors with camera,No
+Maruti Suzuki,Vitara Brezza,Ldi,762742,SUV,1248,4,Injection,48,Diesel,20.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Vitara Brezza,Vdi,814742,SUV,1248,4,Injection,48,Diesel,20.0,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Maruti Suzuki,Vitara Brezza,Zdi,892243,SUV,1248,4,Injection,48,Diesel,20.0,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Maruti Suzuki,Vitara Brezza,Zdi+,987743,SUV,1248,4,Injection,48,Diesel,20.0,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Vitara Brezza,Zdi+ Dual Tone,1003552,SUV,1248,4,Injection,48,Diesel,20.0,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Vitara Brezza,Zdi+ Ags,1037742,SUV,1248,4,Injection,48,Diesel,20.0,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Vitara Brezza,Vdi Ags,864742,SUV,1248,4,Injection,48,Diesel,20.0,5.0,2.0,Yes,1.0,Rear sensors,Yes
+Maruti Suzuki,Vitara Brezza,Zdi Ags,942243,SUV,1248,4,Injection,48,Diesel,20.0,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Maruti Suzuki,Vitara Brezza,Zdi+ Dual Tone Ags,1059742,SUV,1248,4,Injection,48,Diesel,20.0,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,I20 Active,1.2 S,774035,Hatchback,1197,4,Injection,40,Petrol,15.0,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,I20 Active,1.2 Sx,858536,Hatchback,1197,4,Injection,40,Petrol,15.0,5.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,I20 Active,1.2 Sx Dual Tone,882298,Hatchback,1197,4,Injection,40,Petrol,15.0,5.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,I20 Active,1.4 Sx,993393,Hatchback,1396,4,Injection,40,Diesel,21.19,5.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Ford,Ecosport,1.5L Ti-Vct Ambiente,791000,SUV,1497,3,Injection,52,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Ford,Ecosport,1.5L Ti-Vct Trend,871000,SUV,1497,3,Injection,52,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,Yes
+Ford,Ecosport,1.5L Ti-Vct Titanium,950000,SUV,1497,3,Injection,52,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Ford,Ecosport,1.5L Ti-Vct Titanium Plus At,1130000,SUV,1497,3,Injection,52,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Ford,Ecosport,1.5L Tdci Ambiente,841000,SUV,1498,4,Injection,52,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Ford,Ecosport,1.5L Tdci Trend,921000,SUV,1498,4,Injection,52,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,Yes
+Ford,Ecosport,1.5L Tdci Titanium,999900,SUV,1498,4,Injection,52,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Ford,Ecosport,1.5L Tdci Titanium Plus,1090000,SUV,1498,4,Injection,52,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Ford,Ecosport,1.5L Ti-Vct Titanium Plus,999900,SUV,1497,4,Injection,52,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Ford,Ecosport,1.5L Tdci Titanium S,1145000,SUV,1498,3,Injection,52,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors,Yes
+Ford,Ecosport,1.5L Ti-Vct Thunder Edition,999900,SUV,1497,4,Injection,52,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Ford,Ecosport,1.5L Tdci Thunder Edition,1090000,SUV,1498,4,Injection,52,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Renault,Duster,Rxe Petrol,799990,SUV,1498,4,Injection,50,Petrol,10.2,5.0,2.0,Yes,2.0,Rear sensors,No
+Renault,Duster,Rxs Petrol,919990,SUV,1498,4,Injection,50,Petrol,10.0,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Renault,Duster,Rxs (Opt) Cvt,999990,SUV,1498,4,Injection,50,Petrol,10.0,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Renault,Duster,85 Ps Rxe Mt Diesel,929990,SUV,1461,4,Injection,50,Diesel,16.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Renault,Duster,85 Ps Rxs Mt Diesel,999990,SUV,1461,4,Injection,50,Diesel,16.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Renault,Duster,110 Ps Rxs Mt Diesel,1119990,SUV,1461,4,Injection,50,Diesel,16.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Renault,Duster,110 Ps Rxz Mt Diesel,1209990,SUV,1461,4,Injection,50,Diesel,16.0,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Renault,Duster,110 Ps Rxz Amt Diesel,1249990,SUV,1461,4,Injection,50,Diesel,16.0,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Renault,Duster,110 Ps Rxs Awd (Opt) Diesel,1249990,SUV,1461,4,Injection,50,Diesel,16.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Verna,1.6 Vtvt Sx,999900,Sedan,1591,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Verna,1.6 Crdi Sx,1172544,Sedan,1582,4,Injection,45,Diesel,19.9,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Verna,1.6 Crdi Sx (O),1301881,Sedan,1582,4,Injection,45,Diesel,19.9,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Verna,1.6 Vtvt Sx (O),1172999,Sedan,1591,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Verna,1.6 Crdi Sx Plus At,1328545,Sedan,1582,4,Injection,45,Diesel,14.0,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Verna,1.6 Vtvt Sx(O) At,1287999,Sedan,1591,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,No
+Hyundai,Verna,1.4 Vtvt Ex,933182,Sedan,1396,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Verna,1.4 Vtvt E,817867,Sedan,1396,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Verna,1.6 Vtvt Sx (O) Anniversary Edition,1178894,Sedan,1591,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Verna,1.6 Vtvt Sx Plus At,1162875,Sedan,1591,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,No
+Hyundai,Verna,1.6 Crdi Sx(O) At,1407871,Sedan,1582,4,Injection,45,Diesel,14.0,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Verna,1.4 Crdi E,942867,Sedan,1396,4,Injection,45,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Verna,1.4 Crdi Ex,999900,Sedan,1396,4,Injection,45,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Mahindra,Xuv300,1.2 W4,830127,SUV,1197,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Xuv300,1.2 W6,915128,SUV,1197,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Xuv300,1.2 W8,1060129,SUV,1197,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Xuv300,1.2 W8(O),1184129,SUV,1197,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Mahindra,Xuv300,1.5 W4,869131,SUV,1497,4,Injection,42,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Mahindra,Xuv300,1.5 W6,950131,SUV,1497,4,Injection,42,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Xuv300,1.5 W8,1095129,SUV,1497,4,Injection,42,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Xuv300,1.5 W8 (O),1214130,SUV,1497,4,Injection,42,Diesel,15.5,5.0,2.0,Yes,2.0,Front & rear sensors with 360 degree view,Yes
+Mahindra,Xuv300,1.5 W8 Amt,1149800,SUV,1497,4,Injection,42,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Xuv300,1.5 W8 (O) Amt,1269131,SUV,1497,4,Injection,42,Diesel,15.5,5.0,2.0,Yes,2.0,Front & rear sensors with 360 degree view,Yes
+Mahindra,Xuv300,1.5 W6 Amt,999000,SUV,1497,4,Injection,42,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Renault,Lodgy,85 Ps Std,863299,MUV,1461,4,Injection,50,Diesel,21.04,8.0,2.0,Yes,2.0,No Sensors,No
+Renault,Lodgy,85 Ps Rxe 8 Seater,964199,MUV,1461,4,Injection,50,Diesel,21.04,8.0,2.0,Yes,2.0,No Sensors,No
+Renault,Lodgy,Stepway Rxz 110Ps 8-Seater,1211599,MUV,1461,4,Injection,50,Diesel,21.04,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Renault,Lodgy,Stepway Rxz 110Ps 7-Seater,1211599,MUV,1461,4,Injection,50,Diesel,21.04,7.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Renault,Lodgy,Stepway Rxl 85Ps 8-Seater,1053899,MUV,1461,4,Injection,50,Diesel,21.04,8.0,2.0,Yes,2.0,Rear sensors with camera,No
+Renault,Lodgy,Stepway Rxz 85Ps 8-Seater,1130099,MUV,1461,4,Injection,50,Diesel,21.04,8.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Renault,Lodgy,85 Ps Rxe 7 Seater,964199,MUV,1461,4,Injection,50,Diesel,21.04,7.0,2.0,Yes,2.0,No Sensors,No
+Volkswagen,Vento,Trendline 1.6 (P),876500,Sedan,1598,4,Injection,55,Petrol,12.1,5.0,2.0,Yes,2.0,Rear sensors,No
+Volkswagen,Vento,Highline 1.6 (P),999900,Sedan,1598,4,Injection,55,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Volkswagen,Vento,Comfortline 1.6 (P),999900,Sedan,1598,4,Injection,55,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Volkswagen,Vento,Highline 1.2 (P) Dsg,1197500,Sedan,1197,4,Injection,55,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Volkswagen,Vento,Highline Plus 1.2 (P) Dsg,1449500,Sedan,1197,4,Injection,55,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Volkswagen,Vento,Trendline 1.5 (D),958500,Sedan,1498,4,Injection,55,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Volkswagen,Vento,Comfortline 1.5 (D),999900,Sedan,1498,4,Injection,55,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Volkswagen,Vento,Highline 1.5 (D),1210500,Sedan,1498,4,Injection,55,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Volkswagen,Vento,Highline 1.5 (D) Dsg,1336500,Sedan,1498,4,Injection,55,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Volkswagen,Vento,Highline Plus 1.5 (D) Dsg,1317500,Sedan,1498,4,Injection,55,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Volkswagen,Vento,Gt Line (D),1449500,Hatchback,1498,4,Injection,45,Diesel,19.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Volkswagen,Vento,Gt Line (P) Dsg,1317500,Hatchback,1197,4,Injection,45,Petrol,17.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Honda,Brv,E Petrol,952900,SUV,1497,4,Injection,42,Petrol,12.0,7.0,3.0,Yes,2.0,No Sensors,No
+Honda,Brv,S Petrol,1052900,SUV,1497,4,Injection,42,Petrol,12.0,7.0,3.0,Yes,2.0,Rear sensors,No
+Honda,Brv,V Petrol,1167900,SUV,1497,4,Injection,42,Petrol,12.0,7.0,3.0,Yes,2.0,Front and rear sensors,No
+Honda,Brv,Vx Petrol,1271900,SUV,1497,4,Injection,42,Petrol,12.0,7.0,3.0,Yes,2.0,Front and rear sensors with camera,Yes
+Honda,Brv,V Cvt Petrol,1285900,SUV,1497,4,Injection,42,Petrol,12.0,7.0,3.0,Yes,2.0,Front and rear sensors,No
+Honda,Brv,S Diesel,1187900,SUV,1498,4,Injection,42,Diesel,16.2,7.0,3.0,Yes,2.0,Rear sensors,No
+Honda,Brv,V Diesel,1273900,SUV,1498,4,Injection,42,Diesel,16.2,7.0,3.0,Yes,2.0,Front and rear sensors,No
+Honda,Brv,Vx Diesel,1382900,SUV,1498,4,Injection,42,Diesel,16.2,7.0,3.0,Yes,2.0,Front and rear sensors with camera,Yes
+Mahindra,Thar,Crde,959860,SUV,2498,4,Injection,60,Diesel,15.5,6.0,1.0,No,2.0,No Sensors,No
+Mahindra,Thar,700 Special Edition,999148,SUV,2498,4,Injection,60,Diesel,15.5,6.0,1.0,No,2.0,No Sensors,No
+Mahindra,Thar,Crde Abs,974860,SUV,2498,4,Injection,60,Diesel,15.5,6.0,1.0,No,2.0,No Sensors,No
+Force,Gurkha,Xpedition 5 Door,999000,SUV,2596,4,Injection,63,Diesel,14.0,7.0,3.0,Yes,2.0,No Sensors,No
+Force,Gurkha,Xplorer 3 Door,1075000,SUV,2596,4,Injection,63,Diesel,14.0,5.0,3.0,Yes,2.0,No Sensors,No
+Force,Gurkha,Xtreme,1299000,SUV,2149,4,Injection,63,Diesel,15.5,5.0,2.0,No,2.0,No Sensors,No
+Force,Gurkha,Xtreme Abs,1330000,SUV,2149,4,Injection,63,Diesel,15.5,5.0,2.0,No,2.0,No Sensors,No
+Force,Gurkha,Xpedition 3 Door,975000,SUV,2596,4,Injection,63,Diesel,14.0,7.0,3.0,Yes,2.0,No Sensors,No
+Force,Gurkha,Xplorer 5 Door,1225000,SUV,2596,4,Injection,63,Diesel,14.0,5.0,3.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Xl6,Zeta Mt,984689,MPV,1462,4,Injection,45,Petrol,15.5,6.0,2.0,Yes,2.0,Rear sensors with camera,No
+Maruti Suzuki,Xl6,Alpha Mt,1041189,MPV,1462,4,Injection,45,Petrol,15.5,6.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Xl6,Zeta At,1094689,MPV,1462,4,Injection,45,Petrol,15.5,6.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Xl6,Alpha At,1151189,MPV,1462,4,Injection,45,Petrol,15.5,6.0,2.0,Yes,2.0,Rear sensors with camera,No
+Fiat,Abarth Avventura,1.4 T-Jet,989219,Crossover,1368,4,Injection,45,Petrol,17.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Mahindra,Tuv300 Plus,P4,992748,SUV,2179,3,Injection,60,Diesel,18.49,9.0,3.0,Yes,2.0,Varied sensors,Yes
+Mahindra,Tuv300 Plus,P6,1029650,SUV,2179,3,Injection,60,Diesel,18.49,9.0,3.0,Yes,2.0,Varied sensors,Yes
+Mahindra,Tuv300 Plus,P8,1142157,SUV,2179,3,Injection,60,Diesel,18.49,9.0,3.0,Yes,2.0,Varied sensors,Yes
+Mahindra,Marazzo,M2 7 Str,999900,MPV,1497,4,Injection,45,Diesel,15.5,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Marazzo,M4 7 Str,1156471,MPV,1497,4,Injection,45,Diesel,15.5,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Marazzo,M6 7 Str,1308592,MPV,1497,4,Injection,45,Diesel,15.5,7.0,2.0,Yes,2.0,Rear sensors,Yes
+Mahindra,Marazzo,M8 7 Str,1468440,MPV,1497,4,Injection,45,Diesel,15.5,7.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Marazzo,M2 8 Str,999900,MPV,1497,4,Injection,45,Diesel,15.5,8.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Marazzo,M4 8 Str,1164569,MPV,1497,4,Injection,45,Diesel,15.5,8.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Marazzo,M6 8 Str,1316690,MPV,1497,4,Injection,45,Diesel,15.5,8.0,2.0,Yes,2.0,Rear sensors,Yes
+Mahindra,Marazzo,M8 8 Str,1476538,MPV,1497,4,Injection,45,Diesel,15.5,8.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Scorpio,S3 2Wd,999994,SUV,2523,4,Injection,60,Diesel,11.5,9.0,2.0,No,2.0,No Sensors,No
+Mahindra,Scorpio,4Wd Getaway,1236258,SUV,2179,4,Injection,80,Diesel,8.1,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Mahindra,Scorpio,2Wd Getaway,1123158,SUV,2179,4,Injection,80,Diesel,9.4,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Mahindra,Scorpio,S5 2Wd,1220030,SUV,2179,4,Injection,60,Diesel,11.5,9.0,2.0,No,2.0,No Sensors,No
+Mahindra,Scorpio,S7 120 2Wd,1330006,SUV,2179,4,Injection,60,Diesel,11.5,9.0,2.0,No,2.0,No Sensors,No
+Mahindra,Scorpio,S7 140 2Wd,1360668,SUV,2179,4,Injection,60,Diesel,11.5,9.0,2.0,No,2.0,No Sensors,No
+Mahindra,Scorpio,S11 2Wd,1540081,SUV,2179,4,Injection,60,Diesel,11.5,9.0,2.0,No,2.0,Rear sensors with camera,Yes
+Mahindra,Scorpio,S11 4Wd,1663054,SUV,2179,4,Injection,60,Diesel,11.5,9.0,2.0,No,2.0,Rear sensors with camera,Yes
+Mahindra,Scorpio,S9 2Wd,1423710,SUV,2179,4,Injection,60,Diesel,11.5,9.0,2.0,No,2.0,No Sensors,Yes
+Skoda,Monte Carlo,Monte Carlo 1.5 Tdi At,1425599,Sedan,1498,4,Injection,55,Diesel,18.0,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Skoda,Monte Carlo,Monte Carlo 1.6 Mpi At,1269599,Sedan,1598,4,Injection,55,Petrol,12.0,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Skoda,Monte Carlo,Monte Carlo 1.5 Tdi Mt,1299599,Sedan,1498,4,Injection,55,Diesel,18.0,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Skoda,Monte Carlo,Monte Carlo 1.6 Mpi Mt,1139599,Sedan,1598,4,Injection,55,Petrol,12.0,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Mahindra,Xuv500,G At,1610180,SUV,2179,4,Injection,70,Petrol,15.5,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W7,1418313,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,2.0,No Sensors,Yes
+Mahindra,Xuv500,W7 At,1539488,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors,Yes
+Mahindra,Xuv500,W9,1588943,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W9 At,1710118,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W11,1716319,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W11 At,1837586,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W11 (O),1741319,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W11 (O) At,1862586,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,G At,1610180,SUV,2179,4,Injection,70,Petrol,15.5,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W7,1418313,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,2.0,No Sensors,Yes
+Mahindra,Xuv500,W7 At,1539488,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors,Yes
+Mahindra,Xuv500,W9,1588943,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W9 At,1710118,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W11,1716319,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W11 At,1837586,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W11 (O),1741319,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W11 (O) At,1862586,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W11 (O) Awd,1852488,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W11 (O) Awd At,1973664,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Mahindra,Xuv500,W3,1230924,SUV,2179,4,Injection,70,Diesel,16.0,7.0,3.0,Yes,2.0,No Sensors,No
+Tata,Hexa,Xm Plus 4X2,1639374,SUV,2179,4,Injection,60,Diesel,14.0,7.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Hexa,Xt 4X4,1929417,SUV,2179,4,Injection,60,Diesel,14.0,6.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Tata,Hexa,Xta 4X2,1912593,SUV,2179,4,Injection,60,Diesel,14.0,6.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Tata,Hexa,Xt 4X2,1796458,SUV,2179,4,Injection,45,Diesel,14.0,6.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Tata,Hexa,Xe 4X2,1371864,SUV,2179,4,Injection,60,Diesel,14.0,7.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Hexa,Xm 4X2,1531377,SUV,2179,4,Injection,60,Diesel,14.0,7.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Hexa,Xma 4X2,1655587,SUV,2179,4,Injection,45,Diesel,14.0,7.0,2.0,Yes,2.0,Rear sensors,Yes
+Toyota,Innova Crysta,2.4 Gx 7 Str,1605000,MUV,2393,4,Injection,55,Diesel,12.0,7.0,3.0,Yes,3.0,No Sensors,No
+Toyota,Innova Crysta,2.4 Vx 7 Str,1927000,MUV,2393,4,Injection,55,Diesel,12.0,7.0,3.0,Yes,3.0,Rear sensors with camera,Yes
+Toyota,Innova Crysta,2.4 Gx 8 Str,1610000,MUV,2393,4,Injection,55,Diesel,12.0,8.0,3.0,Yes,3.0,No Sensors,No
+Toyota,Innova Crysta,2.4 Vx 8 Str,1932000,MUV,2393,4,Injection,55,Diesel,12.0,8.0,3.0,Yes,3.0,Rear sensors with camera,Yes
+Toyota,Innova Crysta,2.4 Zx 7 Str,2113000,MUV,2393,4,Injection,55,Diesel,12.0,7.0,3.0,Yes,7.0,Front and rear sensors with camera,Yes
+Toyota,Innova Crysta,2.7 Gx At 8 Str,1620000,MUV,2694,4,Injection,55,Petrol,11.2,8.0,3.0,Yes,7.0,No Sensors,No
+Toyota,Innova Crysta,2.7 Gx At 7 Str,1615000,MUV,2694,4,Injection,55,Petrol,11.2,7.0,3.0,Yes,7.0,No Sensors,No
+Toyota,Innova Crysta,2.7 Zx At 7 Str,2103000,MUV,2393,4,Injection,55,Petrol,11.2,7.0,3.0,Yes,7.0,Front and rear sensors with camera,Yes
+Toyota,Innova Crysta,2.7 Vx 7 Str,1807000,MUV,2393,4,Injection,55,Petrol,11.2,7.0,3.0,Yes,3.0,Rear sensors with camera,Yes
+Toyota,Innova Crysta,2.7 Gx Mt 7 Str,1493000,MUV,2755,4,Injection,55,Petrol,11.2,7.0,3.0,Yes,7.0,No Sensors,No
+Toyota,Innova Crysta,2.7 Gx Mt 8 Str,1498000,MUV,2755,4,Injection,55,Petrol,11.2,8.0,3.0,Yes,7.0,No Sensors,No
+Toyota,Innova Crysta,Touring Sport 2.4 Vx 7 Str,2097000,MUV,2393,4,Injection,55,Diesel,12.0,7.0,3.0,Yes,3.0,Rear sensors with camera,Yes
+Toyota,Innova Crysta,Touring Sport 2.7 Vx 7 Str,1892000,MUV,2393,4,Injection,55,Petrol,11.2,7.0,3.0,Yes,3.0,Rear sensors with camera,No
+Toyota,Innova Crysta,Touring Sport 2.7 Zx At 7 Str,2171000,MUV,2694,4,Injection,55,Petrol,11.2,7.0,3.0,Yes,7.0,Front and rear sensors with camera,Yes
+Toyota,Innova Crysta,2.4 G Plus 7 Str,1592000,MUV,2393,4,Injection,55,Diesel,12.0,7.0,3.0,Yes,3.0,No Sensors,No
+Toyota,Innova Crysta,2.4 G Plus 8 Str,1587000,MUV,2393,4,Injection,55,Diesel,12.0,8.0,3.0,Yes,3.0,No Sensors,No
+Jeep,Compass,1.4 Limited At,1996000,SUV,1368,6,Injection,60,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Jeep,Compass,1.4 Sport,1560000,SUV,1368,6,Injection,60,Petrol,15.5,5.0,2.0,Yes,2.0,No Sensors,Yes
+Jeep,Compass,1.4 Limited (O) At,2055000,SUV,1368,6,Injection,60,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Jeep,Compass,2.0 Sport,1661000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,Yes
+Jeep,Compass,2.0 Longitude,1803000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Jeep,Compass,2.0 Longitude (O),1888000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Jeep,Compass,2.0 Limited,1973000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,2.0,No Sensors,Yes
+Jeep,Compass,2.0 Limited (O),2022000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Jeep,Compass,2.0 Limited 4X4,2151000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,No
+Jeep,Compass,2.0 Limited (O) 4X4,2199000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Jeep,Compass,1.4 Limited Plus At Petrol,2167000,SUV,1368,6,Injection,60,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Jeep,Compass,2.0 Limited Plus 4X2 Diesel,2133000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Jeep,Compass,2.0 Limited Plus 4X4 Diesel,2311000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Jeep,Compass,2.0 Sport Plus,1699000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Jeep,Compass,1.4 Sport Plus,1599000,SUV,1368,6,Injection,60,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Jeep,Compass,1.4 Longitude (O) At,1900000,SUV,1368,6,Injection,60,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Jeep,Compass,1.4 Limited (O) At Petrol Black Pack,2070000,SUV,1368,6,Injection,60,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Jeep,Compass,2.0 Limited (O) Black Pack,2036300,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Jeep,Compass,2.0 Limited (O) 4X4 Black Pack,2214000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Jeep,Compass,2.0 Limited Plus 4X4 At,2499000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Jeep,Compass,2.0 Longitude 4X4 At,2196000,SUV,1956,6,Injection,60,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Toyota,Corolla Altis,G Petrol,1645000,Sedan,1798,4,Injection,55,Petrol,9.5,5.0,3.0,Yes,3.0,Rear sensors,No
+Toyota,Corolla Altis,G At Petrol,1806000,Sedan,1798,4,Injection,55,Petrol,9.5,5.0,3.0,Yes,3.0,Rear sensors,No
+Toyota,Corolla Altis,Gl Petrol,1882000,Sedan,1798,4,Injection,55,Petrol,9.5,5.0,3.0,Yes,7.0,Rear sensors with camera,Yes
+Toyota,Corolla Altis,Gl Diesel,1936000,Sedan,1364,4,Injection,43,Diesel,18.2,5.0,3.0,Yes,3.0,Rear sensors,No
+Toyota,Corolla Altis,G Diesel,1771000,Sedan,1364,4,Injection,43,Diesel,18.4,5.0,3.0,Yes,3.0,Rear sensors,No
+Toyota,Corolla Altis,Vl At Petrol,2019000,Sedan,1798,4,Injection,55,Petrol,9.5,5.0,3.0,Yes,7.0,Rear sensors with camera,Yes
+Honda,Civic,1.8 V Cvt,1793900,Sedan,1799,4,Injection,47,Petrol,15.5,5.0,2.0,Yes,4.0,Rear sensors with camera,Yes
+Honda,Civic,1.8 Vx Cvt,1944900,Sedan,1799,4,Injection,47,Petrol,15.5,5.0,2.0,Yes,4.0,Front & rear sensors with 360 degree view,Yes
+Honda,Civic,1.8 Zx Cvt,2124900,Sedan,1799,4,Injection,47,Petrol,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Honda,Civic,1.6 Vx Mt,2054900,Sedan,1597,4,Injection,47,Diesel,15.5,5.0,2.0,Yes,4.0,Rear sensors with camera,Yes
+Honda,Civic,1.6 Zx Mt,2234900,Sedan,1597,4,Injection,47,Diesel,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Kia,Carnival,Premium 7 Str,2495000,MUV,2199,4,Injection,45,Diesel,15.5,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Kia,Carnival,Premium 8 Str,2515000,MUV,2199,4,Injection,45,Diesel,15.5,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Kia,Carnival,Prestige 7 Str,2895000,MUV,2199,4,Injection,45,Diesel,15.5,7.0,3.0,Yes,6.0,Front and rear sensors with camera,Yes
+Kia,Carnival,Prestige 9 (6+3) Str,2995000,MUV,2199,4,Injection,45,Diesel,15.5,7.0,3.0,Yes,6.0,Front and rear sensors with camera,Yes
+Kia,Carnival,Limousine 7 Str,3395000,MUV,2199,4,Injection,45,Diesel,15.5,7.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Skoda,Superb,Style 1.8 Tsi Mt,2599599,Sedan,1798,4,Injection,66,Petrol,10.6,5.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Skoda,Superb,Style 1.8 Tsi At,2779599,Sedan,1798,4,Injection,66,Petrol,10.1,5.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Skoda,Superb,L & K 1.8 Tsi At,3099599,Sedan,1798,4,Injection,66,Petrol,11.3,5.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Skoda,Superb,L & K 2.0 Tdi At,3349599,Sedan,1968,4,Injection,66,Diesel,15.1,5.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Skoda,Superb,Style 2.0 Tdi At,3029599,Sedan,1968,4,Injection,66,Diesel,15.1,5.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Skoda,Superb,Corporate Edition 1.8 Tsi At,2599599,Sedan,1798,4,Injection,66,Petrol,10.1,5.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Skoda,Superb,Corporate Edition 2.0 Tdi At,2849599,Sedan,1968,4,Injection,66,Diesel,15.1,5.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Volvo,V40,Kinetic,2769000,Hatchback,1984,5,Injection,60,Diesel,16.8,5.0,2.0,Yes,7.0,Rear sensors,Yes
+Volvo,V40,R Design,3191000,Hatchback,1984,5,Injection,60,Diesel,16.8,5.0,2.0,Yes,7.0,Front and rear sensors with camera,Yes
+Toyota,Fortuner,2.8 4X2 At,3205000,SUV,2755,4,Injection,80,Diesel,12.55,7.0,3.0,Yes,7.0,Rear sensors with camera,Yes
+Toyota,Fortuner,2.8 4X2 Mt,3019000,SUV,2755,4,Injection,80,Diesel,12.55,7.0,3.0,Yes,7.0,Rear sensors with camera,Yes
+Toyota,Fortuner,2.8 4X4 Mt,3216000,SUV,2755,4,Injection,80,Diesel,12.55,7.0,3.0,Yes,7.0,Rear sensors with camera,Yes
+Toyota,Fortuner,2.8 4X4 At,3395000,SUV,2755,4,Injection,80,Diesel,12.55,7.0,3.0,Yes,7.0,Rear sensors with camera,Yes
+Toyota,Fortuner,2.7 4X2 At,2977000,SUV,2694,4,Injection,80,Petrol,7.8,7.0,3.0,Yes,7.0,Rear sensors with camera,Yes
+Toyota,Fortuner,2.7 4X2 Mt,2818000,SUV,2694,4,Injection,80,Petrol,7.8,7.0,3.0,Yes,7.0,Rear sensors with camera,Yes
+Toyota,Fortuner,Trd Celebratory Edition,3420000,SUV,2755,4,Injection,80,Diesel,12.55,7.0,3.0,Yes,7.0,Rear sensors with camera,Yes
+Ford,Endeavour,3.2L 4X4 At Titanium Plus,3470000,SUV,3198,5,Injection,80,Diesel,7.7,7.0,2.0,Yes,7.0,Front and rear sensors with camera,Yes
+Ford,Endeavour,2.2L 4X2 At Titanium Plus,3233000,SUV,2198,4,Injection,80,Diesel,9.3,7.0,2.0,Yes,7.0,Front and rear sensors with camera,Yes
+Ford,Endeavour,2.2L 4X2 Mt Titanium,2920000,SUV,2198,4,Injection,80,Diesel,9.3,7.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Mini,Cooper 3 Door,Cooper D,2990000,Hatchback,1496,3,Injection,44,Diesel,15.5,4.0,2.0,Yes,2.0,Rear sensors with camera,No
+Mini,Cooper 3 Door,Cooper S,3420000,Hatchback,1998,4,Injection,44,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Skoda,Kodiaq Scout,2.0 Tdi At,3399000,SUV,1968,4,Injection,63,Diesel,15.5,7.0,2.0,Yes,9.0,Front and rear sensors with camera,Yes
+Bmw,X1,Sdrive20D Expedition,3520000,"Crossover, SUV",1995,4,Injection,51,Diesel,18.0,5.0,2.0,Yes,6.0,Front and rear sensors with camera,No
+Bmw,X1,Sdrive20D Xline,3930000,"SUV, Crossover",1995,4,Injection,51,Diesel,18.0,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bmw,X1,Xdrive20D M Sport,4570000,"SUV, Crossover",1995,4,Injection,51,Diesel,18.0,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bmw,X1,Sdrive20D M Sport,4240000,SUV,1995,4,Injection,61,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors,Yes
+Bmw,X1,Sdrive20I Xline,3830000,"Crossover, SUV",1998,4,Injection,51,Petrol,15.71,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Volvo,S60,Polestar,5602000,Sedan,1969,4,Injection,67,Petrol,13.2,5.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,No
+Volvo,S60,Momentum,3850500,Sedan,1984,5,Injection,67,Diesel,15.5,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bmw,3-Series,320D Sport,4140000,Sedan,1995,4,Injection,40,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Bmw,3-Series,320D Luxury Line,4690000,Sedan,1995,4,Injection,40,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Bmw,3-Series,330I M Sport,4790000,Sedan,1998,4,Injection,59,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Volvo,S60 Cross Country,D4,4426500,"Sedan, Crossover",2400,5,Injection,67,Diesel,15.6,4.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Audi,Q5,35 Tdi Premium Plus,5021200,SUV,1968,4,Injection,64,Diesel,12.0,5.0,2.0,Yes,8.0,Rear sensors with camera,Yes
+Audi,Q5,35 Tdi Technology,5621200,SUV,1968,4,Injection,64,Diesel,12.0,5.0,2.0,Yes,8.0,Rear sensors with camera,Yes
+Audi,Q5,45 Tfsi Premium Plus,5021200,SUV,1984,6,Injection,70,Petrol,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Audi,Q5,45 Tfsi Technology,5621200,SUV,1984,6,Injection,70,Petrol,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Range Evoque,S,5494000,SUV,1999,4,Injection,45,Diesel,15.5,5.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Range Evoque,Se R-Dynamic,5985000,SUV,1999,4,Injection,45,Diesel,15.5,5.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Range Evoque,S Petrol,5494000,SUV,1997,4,Injection,45,Petrol,15.5,5.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Range Evoque,Se R-Dynamic Petrol,5985000,SUV,1997,4,Injection,45,Petrol,15.5,5.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Volvo,Xc60,Inscription D5,5990000,SUV,1969,5,Injection,70,Diesel,11.7,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Bmw,X4,Xdrive20D M Sport X,6060000,SUV,1995,4,Injection,60,Diesel,15.5,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bmw,X4,Xdrive30D M Sport X,6590000,SUV,2993,6,Injection,68,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Bmw,X4,Xdrive30I M Sport X,6350000,SUV,1998,6,Injection,68,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Jeep,Wrangler,Unlimited,6394000,SUV,1999,4,Injection,85,Petrol,17.5,5.0,2.0,No,6.0,Rear sensors with camera,Yes
+Bmw,Z4 Roadster,Sdrive 20I,6490000,"Sports, Convertible",1998,4,Injection,52,Petrol,15.5,2.0,2.0,Yes,4.0,Front and rear sensors with camera,Yes
+Bmw,Z4 Roadster,M 40I,7890000,"Sports, Convertible",2998,6,Injection,52,Petrol,15.5,2.0,2.0,Yes,4.0,Front and rear sensors with camera,Yes
+Audi,Q7,45 Tdi Premium Plus,7221500,SUV,2967,6,Injection,75,Diesel,9.3,7.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Audi,Q7,45 Tdi Technology Pack,8021500,SUV,2967,6,Injection,75,Diesel,9.3,7.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Audi,Q7,40 Tfsi Quattro Premium Plus,6921500,SUV,1984,6,Injection,75,Petrol,15.5,7.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Audi,Q7,40 Tfsi Quattro Technology Pack,7621500,SUV,1984,6,Injection,75,Petrol,15.5,7.0,2.0,Yes,8.0,"Front and rear sensors with camera, Front & rear sensors with 360 degree view",Yes
+Audi,Q7,45 Tdi Black Styling,8111500,SUV,2967,6,Injection,75,Diesel,9.3,7.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Audi,Q7,40 Tfsi Quattro Black Styling,7711500,SUV,1984,6,Injection,75,Petrol,15.5,7.0,2.0,Yes,8.0,"Front and rear sensors with camera, Front & rear sensors with 360 degree view",Yes
+Land Rover,Range Evoque Convertible,2.0 Hse Dynamic,6952964,Convertible,1998,4,Injection,45,Petrol,15.68,4.0,3.0,Yes,7.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Range Velar,2.0 Diesel R-Dynamic S,7246802,SUV,1999,4,Injection,45,Diesel,15.68,5.0,3.0,Yes,6.0,Rear sensors with camera,No
+Land Rover,Range Velar,2.0 Petrol R-Dynamic S,7246802,SUV,1997,4,Injection,65,Petrol,12.63,5.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Volvo,Xc90,D5 Inscription,8790000,SUV,1969,4,Injection,68,Diesel,13.2,7.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Volvo,Xc90,D5 Momentum,8090000,SUV,1969,4,Injection,68,Diesel,13.2,7.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Volvo,Xc90,T8 Excellence,13124000,SUV,1969,4,Injection,68,Hybrid,5.0,4.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Volvo,Xc90,T8 Inscription,9665000,SUV,1969,4,Injection,68,Hybrid,15.5,7.0,2.0,Yes,7.0,Front & rear sensors with 360 degree view,Yes
+Volvo,Xc90,D5 R-Design,8491500,SUV,1969,4,Injection,68,Diesel,13.2,7.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Range Sport,2.0L S Petrol,8670586,SUV,1997,8,Injection,105,Petrol,15.5,7.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Range Sport,2.0L Se Petrol,9448181,SUV,1997,8,Injection,105,Petrol,15.5,7.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Range Sport,3.0L V6 Se Petrol,11476911,SUV,2995,6,Injection,85,Petrol,15.5,7.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Range Sport,2.0L Hse Petrol,15600000,SUV,1997,8,Injection,105,Petrol,15.5,7.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Range Sport,3.0L V6 Hse Petrol,13228725,SUV,2995,6,Injection,85,Petrol,15.5,7.0,3.0,Yes,8.0,Rear sensors,Yes
+Land Rover,Range Sport,3.0L Tdv6 S Diesel,10373732,SUV,2993,6,Injection,80,Diesel,15.5,5.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Range Sport,3.0L Tdv6 Se Diesel,11913021,SUV,2993,6,Injection,80,Diesel,15.5,5.0,3.0,No,8.0,Front and rear sensors with camera,Yes
+Land Rover,Range Sport,4.4L Sdv8 Hse Diesel,14908985,SUV,4367,8,Injection,105,Diesel,5.9,7.0,3.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Jaguar,Xj,3.0L,9738609,Sedan,2993,6,Injection,82,Diesel,9.5,5.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Jaguar,Xj,3.0L Portfolio,10725145,Sedan,2993,6,Injection,83,Diesel,9.5,5.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Jaguar,Xj,50,11129599,Sedan,2993,6,Injection,82,Diesel,9.5,5.0,3.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Porsche,Cayenne,E-Hybrid,15806000,SUV,2995,6,Injection,75,Hybrid,15.5,5.0,2.0,Yes,10.0,Rear sensors with camera,Yes
+Porsche,Cayenne,Turbo,19210000,SUV,3996,6,Injection,90,Petrol,15.5,5.0,2.0,Yes,10.0,Rear sensors with camera,Yes
+Porsche,Cayenne,Base,11936000,SUV,2995,6,Injection,75,Petrol,15.5,5.0,2.0,Yes,10.0,Rear sensors with camera,Yes
+Toyota,Land Cruiser,Vx,14699000,SUV,4461,8,Injection,93,Diesel,5.3,7.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Audi,Rs7,Sportback,17072000,"Sedan, Coupe",3993,8,Injection,75,Petrol,5.6,4.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Range,5.0L V8 Autobiography Petrol,26037526,SUV,4999,8,Injection,105,Petrol,4.4,7.0,2.0,Yes,10.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Range,5.0L V8 Svautobiography Dynamic Petrol,32522000,SUV,4999,8,Injection,105,Petrol,4.4,5.0,3.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Range,3.0L V6 Vogue Lwb Petrol,19527130,SUV,2995,6,Injection,85,Petrol,8.1,7.0,3.0,No,8.0,Front and rear sensors with camera,Yes
+Land Rover,Range,5.0L V8 Svautobiography Lwb Petrol,40499548,SUV,4999,8,Injection,65,Petrol,8.0,5.0,3.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Range,3.0L Tdv6 Vogue Diesel,18185267,SUV,2993,6,Injection,45,Diesel,15.5,5.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Range,3.0L Tdv6 Vogue Lwb Diesel,19527130,SUV,2993,6,Injection,45,Diesel,15.5,7.0,3.0,No,8.0,Front and rear sensors with camera,Yes
+Land Rover,Range,4.4L Sdv8 Autobiography Lwb Diesel,25174051,SUV,4367,8,Injection,45,Diesel,15.5,7.0,3.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Range,4.4L Sdv8 Svautobiography Lwb Diesel,39294685,SUV,4367,8,Injection,45,Diesel,8.69,4.0,3.0,Yes,8.0,Varied sensors,Yes
+Land Rover,Range,4.4L Sdv8 Vogue Se Lwb Diesel,23675691,SUV,4367,8,Injection,45,Diesel,15.5,7.0,3.0,Yes,8.0,Rear sensors,Yes
+Land Rover,Range,3.0L V6 Vogue Se Lwb Petrol,21398758,SUV,2995,6,Injection,85,Petrol,8.1,7.0,3.0,No,8.0,Rear sensors,Yes
+Maserati,Grancabrio,Standard,19865675,Convertible,4691,8,Injection,75,Petrol,4.0,4.0,2.0,Yes,4.0,Front and rear sensors with camera,Yes
+Lamborghini,Huracan,Lp 610-4,37133704,Coupe,5204,10,Injection,90,Petrol,5.6,2.0,3.0,No,4.0,Front and rear sensors with camera,Yes
+Lamborghini,Huracan,Lp 580-2,32452486,Coupe,5204,10,Injection,90,Petrol,5.8,2.0,3.0,No,4.0,Front and rear sensors with camera,Yes
+Lamborghini,Huracan,Avio,35150732,Coupe,5204,10,Injection,90,Petrol,10.6,2.0,3.0,No,4.0,Front and rear sensors with camera,Yes
+Lamborghini,Huracan,Performante,37614126,Coupe,5204,10,Injection,90,Petrol,5.6,2.0,3.0,No,4.0,Front and rear sensors with camera,Yes
+Lamborghini,Huracan,Lp 580-2 Spyder,35535000,Coupe,5204,10,Injection,90,Petrol,5.8,2.0,3.0,No,4.0,Front and rear sensors with camera,Yes
+Lamborghini,Huracan,Lp 610-4 Spyder,40742932,Coupe,5204,10,Injection,90,Petrol,5.6,2.0,3.0,No,4.0,Front and rear sensors with camera,Yes
+Lamborghini,Huracan,Evo,37300000,Coupe,5204,10,Injection,90,Petrol,5.6,2.0,3.0,No,4.0,Front and rear sensors with camera,Yes
+Lamborghini,Huracan,Evo Spyder,41000000,Convertible,5204,10,Injection,45,Petrol,5.6,2.0,3.0,Yes,4.0,Front and rear sensors with camera,Yes
+Lamborghini,Huracan,Evo Rwd,32200000,Coupe,5204,10,Injection,90,Petrol,5.6,2.0,3.0,No,4.0,Front and rear sensors with camera,Yes
+Ferrari,488 Gtb,Std,36761413,Coupe,3902,8,Injection,78,Petrol,3.2,2.0,2.0,No,4.0,Front and rear sensors with camera,Yes
+Ferrari,488 Gtb,Spider,39319552,Coupe,3902,8,Injection,78,Petrol,3.2,2.0,2.0,No,4.0,Front and rear sensors with camera,Yes
+Ferrari,Gtc4 Lusso,V8 T,42000000,Coupe,3900,8,Injection,91,Petrol,15.5,4.0,2.0,No,4.0,Front and rear sensors with camera,Yes
+Ferrari,Gtc4 Lusso,V12,52000000,Coupe,6262,8,Injection,91,Petrol,15.5,4.0,2.0,No,4.0,Front and rear sensors with camera,Yes
+Lamborghini,Aventador,Lp 700-4,47893943,Convertible,6498,12,Injection,90,Petrol,3.0,2.0,3.0,Yes,6.0,Varied sensors,Yes
+Lamborghini,Aventador,Lp700-4 Roadster,53210327,Convertible,6498,12,Injection,90,Petrol,3.6,2.0,3.0,Yes,6.0,Varied sensors,Yes
+Lamborghini,Aventador,S,47467700,Coupe,6498,12,Injection,90,Petrol,3.6,2.0,3.0,Yes,6.0,Varied sensors,Yes
+Maruti Suzuki,Omni,5 Str Bs-Iv,282778,MPV,796,3,Injection,35,Petrol,13.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Omni,E 8 Str Bs-Iv,284485,MPV,796,3,Injection,36,Petrol,13.0,8.0,2.0,Yes,2.0,No Sensors,No
+Fiat,Punto Evo Pure,1.2L Fire Dynamic,482330,Hatchback,1172,4,Injection,45,Petrol,12.0,5.0,2.0,Yes,2.0,No Sensors,No
+Fiat,Punto Evo Pure,1.3,575947,Hatchback,1248,4,Injection,45,Diesel,15.5,5.0,3.0,Yes,1.0,Rear sensors,No
+Ford,Figo,Ambiente 1.2 Ti-Vct,523000,Hatchback,1194,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Ford,Figo,Ambiente 1.5 Tdci,623000,Hatchback,1498,4,Injection,40,Diesel,17.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Ford,Figo,Titanium 1.2 Ti-Vct,599900,Hatchback,1196,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Ford,Figo,Titanium1.5 Tdci,699900,Hatchback,1498,4,Injection,40,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Ford,Figo,Titanium Blu 1.2 Ti-Vct,664900,Hatchback,1194,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Ford,Figo,Titanium Blu 1.5 Tdci,764900,Hatchback,1498,4,Injection,40,Diesel,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Maruti Suzuki,Baleno,1.3 Delta,746621,Hatchback,1248,4,Injection,37,Diesel,27.39,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Baleno,1.3 Alpha,868221,Hatchback,1248,4,Injection,37,Diesel,27.39,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Baleno,1.3 Sigma,668611,Hatchback,1248,4,Injection,37,Diesel,27.39,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Baleno,1.3 Zeta,807921,Hatchback,1248,4,Injection,37,Diesel,27.39,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Baleno,1.2 Alpha,758212,Hatchback,1197,4,Injection,37,Petrol,21.4,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Baleno,1.2 Alpha Cvt,890212,Hatchback,1197,4,Injection,37,Petrol,21.4,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Baleno,1.2 Delta,636612,Hatchback,1197,4,Injection,37,Petrol,21.4,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Baleno,1.2 Delta Cvt,768612,Hatchback,1197,4,Injection,37,Petrol,21.4,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Baleno,1.2 Sigma,558602,Hatchback,1197,4,Injection,37,Petrol,21.4,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Baleno,1.2 Zeta,697912,Hatchback,1197,4,Injection,37,Petrol,21.4,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Baleno,1.2 Delta Dualjet,733412,Hatchback,1197,4,Injection,37,Petrol,21.4,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Baleno,1.2 Zeta Dualjet,789912,Hatchback,1197,4,Injection,37,Petrol,21.4,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Baleno,1.2 Zeta Cvt,829912,Hatchback,1197,4,Injection,37,Petrol,21.4,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Grand I10,1.2 Kappa Vtvt Magna,586428,Hatchback,1197,4,Injection,43,Petrol,18.9,5.0,3.0,Yes,2.0,No Sensors,No
+Hyundai,Grand I10,1.2 Kappa Vtvt Sportz,620637,Hatchback,1197,4,Injection,43,Petrol,18.9,5.0,3.0,Yes,2.0,Rear sensors,Yes
+Hyundai,Grand I10,1.2 Kappa Vtvt Magna At,652328,Hatchback,1197,4,Injection,43,Petrol,18.9,5.0,3.0,Yes,2.0,No Sensors,No
+Hyundai,Grand I10,1.2 Kappa Vtvt Sportz At,705538,Hatchback,1197,4,Injection,43,Petrol,18.9,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Grand I10,1.2 Kappa Vtvt Sportz Dual Tone,640537,Hatchback,1197,4,Injection,43,Petrol,18.9,5.0,3.0,Yes,2.0,Rear sensors,Yes
+Hyundai,Grand I10,1.2 Kappa Vtvt Magna Cng,653452,Hatchback,1197,4,Injection,43,CNG,15.5,5.0,3.0,Yes,2.0,No Sensors,No
+Fiat,Linea Classic,1.3 Multijet,751203,Sedan,1248,4,Injection,45,Diesel,16.2,5.0,3.0,Yes,2.0,No Sensors,No
+Fiat,Linea Classic,1.4,646336,Sedan,1368,4,Injection,45,Petrol,11.4,5.0,3.0,Yes,2.0,No Sensors,No
+Fiat,Linea Classic,Plus 1.3 Multijet,808558,Sedan,1248,4,Injection,45,Diesel,16.2,5.0,3.0,Yes,2.0,No Sensors,No
+Nissan,Sunny,Xe Petrol,707025,Sedan,1498,4,Injection,41,Petrol,10.6,5.0,2.0,Yes,1.0,No Sensors,No
+Nissan,Sunny,Xl Petrol,836461,Sedan,1498,4,Injection,41,Petrol,10.6,5.0,2.0,Yes,1.0,Rear sensors,No
+Nissan,Sunny,Xl Diesel,912534,Sedan,1461,4,Injection,41,Diesel,18.0,5.0,2.0,Yes,1.0,Rear sensors,No
+Nissan,Sunny,Xv Diesel,993997,Sedan,1461,4,Injection,41,Diesel,18.0,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Nissan,Sunny,Xe Diesel,860997,Sedan,1461,4,Injection,41,Diesel,18.0,5.0,2.0,Yes,1.0,No Sensors,No
+Nissan,Sunny,Xv Cvt,993997,Sedan,1498,4,Injection,41,Petrol,10.6,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Nissan,Sunny,Special Edition Diesel,877285,Sedan,1461,4,Injection,41,Diesel,18.0,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Maruti Suzuki,Ertiga,Lxi,759000,MPV,1462,4,Injection,45,Petrol,15.5,7.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ertiga,Zxi,917000,MPV,1462,4,Injection,45,Petrol,15.5,7.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ertiga,Vxi At,936000,MUV,1462,4,Injection,45,Petrol,15.5,7.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ertiga,Zxi Plus,971000,MUV,1462,4,Injection,45,Petrol,15.5,7.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Ertiga,Vxi,834000,MUV,1462,4,Injection,45,Petrol,15.5,7.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ertiga,Zxi At,1013000,MPV,1462,4,Injection,45,Petrol,15.5,7.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Ertiga,1.5L Vdi,986689,MPV,1498,4,Injection,45,Diesel,15.5,7.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ertiga,1.5L Zdi,1069689,MPV,1498,4,Injection,45,Diesel,15.5,7.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ertiga,1.5L Zdi Plus,1120689,MPV,1498,4,Injection,45,Diesel,15.5,7.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Ertiga,Vxi Cng (Cng +,887689,MUV,1462,4,Injection,45,CNG + Petrol,15.5,7.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Baleno Rs,Rs 1.0,788913,Hatchback,998,3,Injection,37,Petrol,21.4,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Wr-V,Vx Diesel,1035000,SUV,1498,4,Injection,40,Diesel,25.5,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Wr-V,Vx Petrol,925000,SUV,1199,4,Injection,40,Petrol,17.5,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Wr-V,S Diesel,925000,SUV,1498,4,Injection,40,Diesel,25.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Honda,Wr-V,S Petrol,815000,SUV,1199,4,Injection,40,Petrol,17.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Honda,Wr-V,Edge Plus Edition Diesel,916050,SUV,1498,4,Injection,40,Diesel,25.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Honda,Wr-V,Edge Plus Edition Petrol,808050,SUV,1199,4,Injection,40,Petrol,17.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Honda,Wr-V,Exclusive Edition Diesel,1048050,SUV,1498,4,Injection,40,Diesel,25.5,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Wr-V,Exclusive Edition Petrol,935050,SUV,1199,4,Injection,40,Petrol,17.5,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Honda,Wr-V,V Diesel,995000,SUV,1498,4,Injection,40,Diesel,25.5,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Tuv300,T4 Plus,854328,SUV,1493,3,Injection,60,Diesel,18.49,7.0,3.0,Yes,2.0,No Sensors,No
+Mahindra,Tuv300,T6 Plus,914328,SUV,1493,3,Injection,60,Diesel,18.49,7.0,3.0,Yes,2.0,No Sensors,No
+Mahindra,Tuv300,T8,976592,SUV,1493,3,Injection,60,Diesel,18.49,7.0,3.0,Yes,2.0,No Sensors,No
+Mahindra,Tuv300,T10,999614,SUV,1493,3,Injection,60,Diesel,18.49,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Tuv300,T10 (O),1031943,SUV,1493,3,Injection,60,Diesel,18.49,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Tuv300,T10 Dual Tone,1022930,SUV,1493,3,Injection,60,Diesel,18.49,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Tuv300,T10 (O) Dual Tone,1055259,SUV,1493,3,Injection,60,Diesel,18.49,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,S-Cross,1.3L Sigma,880689,Crossover,1248,4,Injection,48,Diesel,23.65,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,S-Cross,1.3L Delta,992689,Crossover,1248,4,Injection,48,Diesel,23.65,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,S-Cross,1.3L Zeta,1043689,Crossover,1248,4,Injection,48,Diesel,23.65,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,S-Cross,1.3L Alpha,1143689,Crossover,1248,4,Injection,48,Diesel,23.65,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Renault,Captur,Rxe Petrol,949999,SUV,1498,4,Injection,50,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Renault,Captur,Rxe Diesel,1049999,SUV,1461,4,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Renault,Captur,Platine Diesel Dual Tone,1299999,SUV,1461,4,Injection,50,Diesel,15.5,5.0,2.0,Yes,4.0,Rear sensors with camera,Yes
+Renault,Captur,Platine Petrol Dual Tone,1199999,SUV,1498,4,Injection,50,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Mahindra,Xylo,D2 Bs-Iv,963037,SUV,2489,4,Injection,55,Diesel,10.7,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Xylo,D4 Bs-Iv,1004487,SUV,2489,4,Injection,55,Diesel,10.3,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Xylo,H4 Bs-Iv,1031951,SUV,2179,4,Injection,55,Diesel,11.4,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Xylo,H4 Abs Bs-Iv,1066139,SUV,2179,4,Injection,55,Diesel,11.4,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Xylo,H8 Abs Airbags Bs-Iv,1228335,SUV,2179,4,Injection,55,Diesel,11.4,8.0,2.0,Yes,2.0,No Sensors,No
+Kia,Seltos,Hte 1.5,989000,SUV,1497,4,Injection,60,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Kia,Seltos,Htk 1.5,1029000,SUV,1497,4,Injection,60,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Kia,Seltos,Htk Plus 1.5,1149000,SUV,1497,4,Injection,60,Petrol,15.5,5.0,2.0,Yes,4.0,Rear sensors with camera,No
+Kia,Seltos,Htx 1.5,1309000,SUV,1497,4,Injection,60,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Kia,Seltos,Htx Cvt 1.5,1409000,SUV,1497,4,Injection,60,Petrol,15.5,5.0,2.0,Yes,4.0,Front and rear sensors with camera,Yes
+Kia,Seltos,Hte 1.5 Diesel,1034000,SUV,1493,4,Injection,60,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Kia,Seltos,Htk 1.5 Diesel,1154000,SUV,1493,4,Injection,60,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Kia,Seltos,Htk Plus 1.5 Diesel,1254000,SUV,1493,4,Injection,60,Diesel,15.5,5.0,2.0,Yes,4.0,Rear sensors with camera,No
+Kia,Seltos,Htk Plus At 1.5 Diesel,1354000,SUV,1493,4,Injection,60,Diesel,15.5,5.0,2.0,Yes,4.0,Rear sensors with camera,No
+Kia,Seltos,Htx Plus 1.5 Diesel,1534000,SUV,1493,4,Injection,60,Diesel,15.5,5.0,2.0,Yes,4.0,Front and rear sensors with camera,Yes
+Kia,Seltos,Htx Plus At 1.5 Diesel,1634000,SUV,1493,4,Injection,60,Diesel,15.5,5.0,2.0,Yes,4.0,Front and rear sensors with camera,Yes
+Kia,Seltos,Gtk 1.4,1379000,SUV,1353,4,Injection,50,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Kia,Seltos,Gtx 1.4,1529000,SUV,1353,4,Injection,50,Petrol,15.5,5.0,2.0,Yes,4.0,Rear sensors with camera,Yes
+Kia,Seltos,Gtx At 1.4,1629000,SUV,1353,4,Injection,50,Petrol,15.5,5.0,2.0,Yes,4.0,Front and rear sensors with camera,Yes
+Kia,Seltos,Gtx Plus 1.4,1629000,SUV,1353,4,Injection,50,Petrol,15.5,5.0,2.0,Yes,4.0,Front and rear sensors with camera,Yes
+Kia,Seltos,Htx 1.5 Diesel,1414000,SUV,1493,4,Injection,60,Diesel,15.5,5.0,2.0,Yes,4.0,Rear sensors with camera,Yes
+Nissan,Terrano,Xe D 85Ps,999900,SUV,1461,4,Injection,50,Diesel,17.1,5.0,2.0,Yes,2.0,No Sensors,No
+Nissan,Terrano,Xv D Premium 110 Ps Amt,1464900,SUV,1461,4,Injection,50,Diesel,16.0,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Nissan,Terrano,Xl (P),999900,SUV,1598,4,Injection,50,Petrol,10.1,5.0,2.0,Yes,2.0,No Sensors,No
+Nissan,Terrano,Xl D(O),1235700,SUV,1461,4,Injection,50,Diesel,17.1,5.0,2.0,Yes,2.0,No Sensors,No
+Nissan,Terrano,Xv D Premium 110 Ps,1419900,SUV,1461,4,Injection,50,Diesel,16.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Nissan,Terrano,Sport Edition,1235700,SUV,1461,4,Injection,50,Diesel,17.1,5.0,2.0,Yes,2.0,No Sensors,Yes
+Tata,Safari Storme,2.2 Lx 4X2,1109005,SUV,2179,4,Injection,63,Diesel,10.8,7.0,3.0,Yes,2.0,No Sensors,No
+Tata,Safari Storme,2.2 Ex 4X2,1335158,SUV,2179,4,Injection,63,Diesel,10.8,7.0,3.0,Yes,2.0,No Sensors,No
+Tata,Safari Storme,2.2 Vx 4X2 Varicor 400,1479574,SUV,2179,4,Injection,63,Diesel,10.8,7.0,3.0,Yes,2.0,Rear sensors,No
+Tata,Safari Storme,2.2 Vx 4X4 Varicor 400,1643829,SUV,2179,4,Injection,63,Diesel,13.93,7.0,3.0,Yes,2.0,Rear sensors,No
+Mg,Hector,1.5L Style,1248000,SUV,1500,4,Injection,45,Petrol,15.5,5.0,2.0,No,2.0,Rear sensors,Yes
+Mg,Hector,2.0L Style,1348000,SUV,2000,4,Injection,45,Diesel,15.5,5.0,2.0,No,2.0,Rear sensors,Yes
+Mg,Hector,2.0L Super,1448000,SUV,2000,4,Injection,45,Diesel,15.5,5.0,2.0,No,2.0,Rear sensors with camera,Yes
+Mg,Hector,2.0L Smart,1588000,SUV,2000,4,Injection,45,Diesel,15.5,5.0,2.0,No,6.0,Rear sensors with camera,Yes
+Mg,Hector,2.0L Sharp,1728000,SUV,2000,4,Injection,45,Diesel,15.5,5.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Mg,Hector,1.5L Super,1328000,SUV,1500,4,Injection,45,Petrol,15.5,5.0,2.0,No,2.0,Rear sensors with camera,Yes
+Mg,Hector,1.5L Super Hybrid,1388000,SUV,1500,4,Injection,45,Hybrid,15.5,5.0,2.0,No,2.0,Rear sensors with camera,Yes
+Mg,Hector,1.5L Sharp Hybrid,1628000,SUV,1500,4,Injection,45,Hybrid,15.5,5.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Mg,Hector,1.5L Smart Hybrid,1498000,SUV,1500,4,Injection,45,Hybrid,15.5,5.0,2.0,No,6.0,No Sensors,Yes
+Mg,Hector,1.5L Smart Dct,1568000,SUV,1500,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Mg,Hector,1.5L Sharp Dct,1718000,SUV,1500,4,Injection,45,Petrol,15.5,5.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Hyundai,Elantra,S,1589000,Sedan,1999,4,Injection,50,Petrol,13.1,5.0,2.0,Yes,6.0,Rear sensors,No
+Hyundai,Elantra,Sx,1849000,Sedan,1999,4,Injection,50,Petrol,13.1,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Elantra,Sx At,1949000,Sedan,1999,4,Injection,50,Petrol,13.1,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Elantra,Sx(O) At,2039000,Sedan,1999,4,Injection,50,Petrol,13.1,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Hyundai,Tucson,2Wd Mt Diesel,2079717,SUV,1995,4,Injection,62,Diesel,16.38,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Tucson,2Wd Mt Petrol,1876656,SUV,1999,4,Injection,62,Petrol,13.3,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Tucson,2Wd At Gl Diesel,2364354,SUV,1995,4,Injection,62,Diesel,16.38,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Hyundai,Tucson,2Wd At Gl Petrol,2187384,SUV,1999,4,Injection,62,Petrol,13.3,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Hyundai,Tucson,4Wd At Gls Diesel,2697417,SUV,1995,4,Injection,62,Diesel,16.38,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Hyundai,Tucson,2Wd At Gls Petrol,2373522,SUV,1999,4,Injection,62,Petrol,13.3,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Hyundai,Tucson,2Wd At Gl(O) Petrol,2246749,SUV,1999,4,Injection,62,Petrol,13.3,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Hyundai,Tucson,2Wd At Gl(O) Diesel,2423720,SUV,1995,4,Injection,62,Diesel,16.38,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Volkswagen,Passat,2.0 Tdi Comfortline,3021500,Sedan,1968,4,Injection,55,Diesel,15.5,5.0,2.0,Yes,9.0,Front & rear sensors with 360 degree view,No
+Volkswagen,Passat,2.0 Tdi Highline,3321500,Sedan,1968,4,Injection,66,Diesel,15.5,5.0,2.0,Yes,9.0,Front & rear sensors with 360 degree view,No
+Volkswagen,Passat,2.0 Tdi Comfortline Connect,2599000,Sedan,1968,4,Injection,55,Diesel,15.5,5.0,2.0,Yes,9.0,Front & rear sensors with 360 degree view,No
+Volkswagen,Passat,2.0 Tdi Highline Connect,2899000,Sedan,1968,4,Injection,66,Diesel,15.5,5.0,2.0,Yes,9.0,Front & rear sensors with 360 degree view,No
+Volvo,V40 Cross Country,D3,3283000,Hatchback,1984,5,Injection,60,Diesel,13.05,5.0,2.0,Yes,7.0,Front and rear sensors with camera,Yes
+Volvo,V40 Cross Country,T4,2962000,Hatchback,1596,4,Injection,50,Petrol,12.0,5.0,2.0,Yes,7.0,Varied sensors,Yes
+Mini,Countryman,Cooper S,3490000,Hatchback,1998,4,Injection,47,Petrol,15.5,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Mini,Countryman,Cooper Sd,3740000,Hatchback,1998,4,Injection,47,Diesel,15.5,5.0,2.0,Yes,6.0,Front and rear sensors,Yes
+Mini,Countryman,Cooper S Jcw Inspired,4140000,Hatchback,1998,4,Injection,47,Petrol,15.5,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Mini,Countryman,Black Edition,4240000,Hatchback,1998,4,Injection,47,Petrol,15.5,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Toyota,Prius,Z8,4509000,Sedan,1798,4,Injection,43,Hybrid,15.1,5.0,3.0,Yes,7.0,Front and rear sensors with camera,Yes
+Lexus,Es,300H,5695000,Sedan,2487,4,Injection,45,Hybrid,17.8,5.0,2.0,No,10.0,Front and rear sensors with camera,Yes
+Lexus,Nx 300H,F-Sport,6060000,SUV,2494,6,Injection,56,Petrol,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Lexus,Nx 300H,Luxury,5990000,SUV,2494,6,Injection,56,Petrol,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Jaguar,F-Pace,Prestige,6463780,SUV,1999,4,Injection,60,Diesel,21.27,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Jaguar,F-Pace,Prestige Petrol,6422809,SUV,1997,4,Injection,60,Petrol,15.5,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Volvo,V90 Cross Country,D5 Inscription,6531000,SUV,1969,4,Injection,60,Diesel,13.2,5.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Audi,A5 Cabriolet,2.0 Tdi,6948200,Convertible,1968,4,Injection,58,Diesel,15.5,4.0,2.0,Yes,4.0,Varied sensors,Yes
+Bmw,X7,Xdrive 40I,10490000,SUV,2998,6,Injection,80,Petrol,15.5,7.0,2.0,Yes,9.0,Front & rear sensors with 360 degree view,Yes
+Bmw,X7,Xdrive30D Dpe Signature,10250000,SUV,2993,6,Injection,80,Diesel,15.5,7.0,2.0,Yes,9.0,Front & rear sensors with 360 degree view,Yes
+Bmw,M4,Coupe,13590000,Coupe,2979,6,Injection,60,Petrol,7.32,4.0,2.0,No,10.0,Front and rear sensors with camera,Yes
+Porsche,911,Carrera S,17420000,Coupe,2981,6,Injection,64,Petrol,7.9,4.0,4.0,Yes,4.0,Front and rear sensors with camera,Yes
+Porsche,911,Carrera S Cabriolet,18844000,Convertible,2981,6,Injection,64,Petrol,11.6,4.0,4.0,Yes,4.0,Front and rear sensors with camera,Yes
+Nissan,Gtr,3.8 V6,21240272,Coupe,3799,6,Injection,74,Petrol,9.0,4.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Aston Martin,Vantage,Coupe,29500000,Coupe,3982,8,Injection,73,Petrol,5.0,2.0,2.0,No,6.0,Rear sensors with camera,No
+Aston Martin,Rapide,Luxe,38845823,Sedan,5935,12,Injection,90,Petrol,9.1,4.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Ferrari,812 Superfast,Superfast,52000000,Coupe,6496,12,Injection,92,Petrol,15.5,2.0,2.0,No,4.0,Front and rear sensors with camera,Yes
+Maruti Suzuki,Alto 800 Tour,H1,354235,Hatchback,796,3,Injection,35,Petrol,18.0,5.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Alto 800 Tour,H1 (O),356559,Hatchback,796,3,Injection,35,Petrol,18.0,5.0,2.0,Yes,1.0,No Sensors,No
+Hyundai,Grand I10 Nios,Magna 1.2 Crdi,675090,Hatchback,1186,3,Injection,37,Diesel,20.7,5.0,3.0,Yes,2.0,Rear sensors,No
+Hyundai,Grand I10 Nios,Era 1.2 Vtvt,504990,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Hyundai,Grand I10 Nios,Magna 1.2 Vtvt,589610,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Hyundai,Grand I10 Nios,Magna Amt 1.2 Vtvt,642610,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Hyundai,Grand I10 Nios,Sportz 1.2 Vtvt,643350,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Hyundai,Grand I10 Nios,Sportz Amt 1.2 Vtvt,703350,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Hyundai,Grand I10 Nios,Sportz Dual Tone 1.2 Vtvt,673350,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Hyundai,Grand I10 Nios,Asta 1.2 Vtvt,718950,Hatchback,1197,4,Injection,37,Petrol,15.5,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Grand I10 Nios,Sportz Amt 1.2 Crdi,790350,Hatchback,1186,3,Injection,37,Diesel,15.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Hyundai,Grand I10 Nios,Asta 1.2 Crdi,804450,Hatchback,1186,3,Injection,37,Diesel,15.5,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Xcent,S 1.2,643769,Sedan,1197,4,Injection,43,Petrol,15.7,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Xcent,S At 1.2,733734,Sedan,1197,4,Injection,43,Petrol,15.7,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Xcent,Sx 1.2,705546,Sedan,1197,4,Injection,43,Petrol,15.7,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Xcent,Sx 1.2 (O),782346,Sedan,1197,4,Injection,43,Petrol,15.7,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Xcent,S 1.2 Crdi,742033,Sedan,1120,3,Injection,43,Diesel,19.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Hyundai,Xcent,E,581078,Sedan,1197,4,Injection,43,Petrol,15.7,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Xcent,Sx 1.2 Crdi,798558,Sedan,1120,3,Injection,43,Diesel,19.0,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Xcent,Sx 1.2 Crdi (O),875358,Sedan,1120,3,Injection,43,Diesel,19.0,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Xcent,E Crdi,673261,Sedan,1197,4,Injection,43,Diesel,19.0,5.0,2.0,Yes,2.0,No Sensors,No
+Nissan,Micra,Xl (O) Cvt,662880,Hatchback,1198,3,Injection,41,Petrol,15.5,5.0,2.0,No,2.0,Rear sensors,No
+Nissan,Micra,Xv Cvt,781686,Hatchback,1198,3,Injection,41,Petrol,15.5,5.0,2.0,No,2.0,Rear sensors with camera,No
+Nissan,Micra,Xld (O),743504,Hatchback,1461,4,Injection,41,Diesel,15.5,5.0,2.0,No,2.0,Rear sensors,No
+Nissan,Micra,Xvd,812964,Hatchback,1461,4,Injection,41,Diesel,19.5,5.0,2.0,No,2.0,Rear sensors,No
+Mahindra,Bolero,Zlx,942263,SUV,2523,4,Injection,60,Diesel,9.4,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Bolero,Slx,917055,SUV,2523,4,Injection,60,Diesel,12.3,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Bolero,Sle,860720,SUV,2523,4,Injection,60,Diesel,12.3,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Bolero,Ex,815883,SUV,2523,4,Injection,60,Diesel,9.4,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Bolero,Ex Non Ac,773678,SUV,2523,4,Injection,60,Diesel,9.4,7.0,2.0,Yes,2.0,No Sensors,No
+Maruti Suzuki,Ciaz,1.3L Alpha Smart Hybrid,1102689,Sedan,1248,4,Injection,43,Diesel,28.09,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Ciaz,1.3L Sigma Smart Hybrid,919689,Sedan,1248,4,Injection,43,Diesel,28.09,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ciaz,1.3L Delta Smart Hybrid,980689,Sedan,1248,4,Injection,43,Diesel,28.09,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ciaz,1.3L Zeta Smart Hybrid,1062689,Sedan,1248,4,Injection,43,Diesel,28.09,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Maruti Suzuki,Ciaz,1.5L Sigma Smart Hybrid,819689,Sedan,1462,4,Injection,43,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ciaz,1.5L Delta Smart Hybrid,881689,Sedan,1462,4,Injection,43,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ciaz,1.5L Zeta Smart Hybrid,958689,Sedan,1462,4,Injection,43,Petrol,21.56,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Maruti Suzuki,Ciaz,1.5L Alpha Smart Hybrid,997689,Sedan,1462,4,Injection,43,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Ciaz,1.5L Delta At Smart Hybrid,980689,Sedan,1462,4,Injection,43,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ciaz,1.5L Zeta At Smart Hybrid,1058688,Sedan,1462,4,Injection,43,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Maruti Suzuki,Ciaz,1.5L Alpha At Smart Hybrid,1098689,Sedan,1462,4,Injection,43,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Ciaz,1.5L Alpha,1138189,Sedan,1498,4,Injection,43,Diesel,26.82,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Maruti Suzuki,Ciaz,1.5L Delta,997689,Sedan,1498,4,Injection,43,Diesel,26032.0,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Ciaz,1.5L Zeta,1109189,Sedan,1498,4,Injection,43,Diesel,26.32,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Skoda,Rapid,1.6 Mpi Ambition,998599,Sedan,1598,4,Injection,55,Petrol,12.0,5.0,3.0,Yes,2.0,Rear sensors,No
+Skoda,Rapid,1.5 Tdi Cr Active,1006139,Sedan,1498,4,Injection,55,Diesel,14.5,5.0,3.0,Yes,2.0,Varied sensors,No
+Skoda,Rapid,1.6 Mpi Active,881916,Sedan,1598,4,Injection,55,Petrol,12.0,5.0,3.0,Yes,2.0,Varied sensors,No
+Skoda,Rapid,1.5 Tdi Cr Ambition,1129599,Sedan,1498,4,Injection,55,Diesel,14.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Skoda,Rapid,1.5 Tdi Cr Ambition At,1249599,Sedan,1498,4,Injection,55,Diesel,14.5,5.0,3.0,Yes,2.0,Rear sensors,No
+Skoda,Rapid,1.6 Mpi Style At,1243599,Sedan,1598,4,Injection,55,Petrol,12.0,5.0,3.0,Yes,2.0,Rear sensors,No
+Skoda,Rapid,1.5 Tdi Cr Style At,1399599,Sedan,1498,4,Injection,55,Diesel,18.0,5.0,3.0,Yes,2.0,No Sensors,No
+Skoda,Rapid,1.5 Tdi Cr Style,1273599,Sedan,1498,4,Injection,55,Diesel,18.0,5.0,3.0,Yes,2.0,Rear sensors,No
+Skoda,Rapid,1.6 Mpi Style,1115599,Sedan,1598,4,Injection,55,Petrol,12.0,5.0,3.0,Yes,2.0,Rear sensors,No
+Skoda,Rapid,1.6 Mpi Ambition At,999599,Sedan,1598,4,Injection,55,Petrol,12.0,5.0,3.0,Yes,2.0,Rear sensors,No
+Skoda,Rapid,Onyx Mt Petrol,975599,Sedan,1598,4,Injection,55,Petrol,12.0,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Skoda,Rapid,Onyx At Petrol,1099599,Sedan,1598,4,Injection,55,Petrol,12.0,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Skoda,Rapid,Onyx Mt Diesel,1158599,Sedan,1498,4,Injection,55,Diesel,18.0,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Skoda,Rapid,Onyx At Diesel,1273599,Sedan,1498,4,Injection,55,Diesel,18.0,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Fiat,Abarth Punto,1.4 T-Jet,980970,Hatchback,1368,4,Injection,45,Petrol,17.0,5.0,2.0,Yes,2.0,No Sensors,No
+Hyundai,Creta,1.4 Crdi E Plus,999990,SUV,1396,4,Injection,55,Diesel,21.38,5.0,3.0,Yes,2.0,Rear sensors,No
+Hyundai,Creta,1.6 Vtvt E Plus,999990,SUV,1591,4,Injection,55,Petrol,15.29,5.0,3.0,Yes,2.0,Rear sensors,No
+Hyundai,Creta,1.6 Vtvt Sx,1232534,SUV,1591,4,Injection,55,Petrol,15.29,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Creta,1.6 Vtvt Sx (O),1394437,SUV,1591,4,Injection,55,Petrol,15.29,5.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Creta,1.6 Vtvt Sx At,1377363,SUV,1591,4,Injection,55,Petrol,15.29,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Creta,1.6 Vtvt Sx Dual Tone,1287041,SUV,1591,4,Injection,55,Petrol,15.29,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Creta,1.4 Crdi S,1197919,SUV,1396,4,Injection,55,Diesel,21.38,5.0,3.0,Yes,2.0,Rear sensors,No
+Hyundai,Creta,1.6 Crdi Sx,1366797,SUV,1582,4,Injection,55,Diesel,17.01,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Creta,1.6 Crdi Sx (O),1543564,SUV,1582,4,Injection,55,Diesel,17.01,5.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Creta,1.6 Crdi Sx At,1527395,SUV,1582,4,Injection,55,Diesel,17.01,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Creta,1.6 Crdi Sx Dual Tone,1421208,SUV,1582,4,Injection,55,Diesel,17.01,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Creta,1.6 Crdi S At,1336033,SUV,1582,4,Injection,55,Diesel,17.01,5.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Hyundai,Creta,1.6 Vtvt Sx (O) Executive,1422937,SUV,1591,4,Injection,55,Petrol,15.29,5.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Creta,1.6 Crdi Sx (O) Executive,1572064,SUV,1582,4,Injection,55,Diesel,17.01,5.0,3.0,Yes,6.0,Rear sensors with camera,Yes
+Hyundai,Creta,1.4 Crdi Ex,1107167,SUV,1396,4,Injection,55,Diesel,21.38,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Creta,1.6 Vtvt Ex,1092192,SUV,1591,4,Injection,55,Petrol,15.29,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Hyundai,Creta,Sports Edition Petrol,1279983,SUV,1591,4,Injection,55,Petrol,15.29,5.0,3.0,Yes,2.0,Rear sensors,Yes
+Hyundai,Creta,Sports Edition Diesel,1414247,SUV,1582,4,Injection,55,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,Yes
+Tata,Harrier,Revotorq Xe,1345363,SUV,1956,3,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Tata,Harrier,Revotorq Xm,1471368,SUV,1956,3,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Tata,Harrier,Revotorq Xt,1591368,Hatchback,1956,3,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Harrier,Revotorq Xz,1721368,Hatchback,1956,3,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Harrier,Revotorq Xz Dual Tone,1732231,Hatchback,1956,3,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Harrier,Revotorq Dark Edition,1730755,Hatchback,1956,3,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Isuzu,Dmax V-Cross,Standard,1654783,Pick-up,2499,4,Injection,45,Diesel,7.3,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Isuzu,Dmax V-Cross,High Z,1806813,Pick-up,2499,4,Injection,45,Diesel,7.3,5.0,3.0,Yes,2.0,Rear sensors with camera,No
+Isuzu,Dmax V-Cross,Z Prestige,1999000,Pick-up,1898,4,Injection,45,Diesel,7.3,5.0,3.0,Yes,6.0,Rear sensors with camera,No
+Honda,Accord Hybrid,2.0 At,4321237,Sedan,1993,4,Injection,60,Hybrid,21.0,5.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bmw,5-Series,520D Luxury Line,5930000,Sedan,1995,4,Injection,70,Diesel,8.4,5.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Bmw,5-Series,530D M Sport,6680000,Sedan,2993,6,Injection,70,Diesel,13.1,5.0,2.0,No,8.0,Front and rear sensors with camera,Yes
+Bmw,5-Series,530I M Sport,5980000,Sedan,1998,6,Injection,70,Petrol,15.01,5.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Bmw,6-Series,630D Gt Luxury Line,6890000,Sedan,2993,6,Injection,88,Diesel,15.5,4.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bmw,6-Series,630D Gt M Sport,7450000,Sedan,2993,6,Injection,88,Diesel,15.5,4.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bmw,6-Series,630I Gt Luxury Line,6440000,Coupe,4395,8,Injection,70,Petrol,4.45,4.0,2.0,Yes,6.0,Rear sensors,Yes
+Bmw,6-Series,620D Gt Luxury Line,6440000,Sedan,1995,4,Injection,66,Diesel,15.5,4.0,2.0,Yes,8.0,Front and rear sensors with camera,Yes
+Porsche,Macan,S,8503000,SUV,2995,6,Injection,65,Petrol,15.5,5.0,2.0,Yes,6.0,Front & rear sensors with 360 degree view,Yes
+Porsche,Macan,Base,6998000,SUV,1984,6,Injection,65,Petrol,15.5,5.0,2.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Jaguar,F-Type,5.0 Coupe R,22155390,Coupe,5000,6,Injection,72,Petrol,7.81,2.0,3.0,No,2.0,Rear sensors,Yes
+Jaguar,F-Type,Svr Coupe,26501830,Coupe,5000,8,Injection,70,Petrol,15.5,2.0,3.0,No,6.0,Front and rear sensors with camera,Yes
+Jaguar,F-Type,Svr Convertible,28004965,Convertible,5000,8,Injection,70,Petrol,15.5,2.0,3.0,No,6.0,Front and rear sensors with camera,Yes
+Jaguar,F-Type,2.0L Coupe,9092578,Coupe,1997,6,Injection,63,Petrol,15.5,2.0,3.0,Yes,2.0,Front and rear sensors with camera,Yes
+Jaguar,F-Type,2.0L Convertible,10144987,Convertible,1997,6,Injection,63,Petrol,15.5,2.0,3.0,Yes,2.0,Front and rear sensors with camera,Yes
+Jaguar,F-Type,2.0 Convertible R Dynamic,10419200,Convertible,1997,8,Injection,63,Petrol,15.5,2.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Jaguar,F-Type,2.0 Coupe R Dynamic,9366433,Coupe,1997,4,Injection,63,Petrol,15.5,2.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Bmw,M5,Competition,15490000,Sedan,4395,8,Injection,68,Petrol,15.5,4.0,2.0,Yes,9.0,Front & rear sensors with 360 degree view,Yes
+Lexus,Lx 570,V8,23290000,SUV,5700,4,Injection,93,Diesel,18.0,7.0,2.0,Yes,10.0,Front & rear sensors with 360 degree view,Yes
+Ferrari,458 Spider,V8,43367500,"Coupe, Convertible",3902,8,Injection,86,Petrol,3.2,2.0,2.0,No,2.0,Front and rear sensors with camera,Yes
+Maruti Suzuki,Wagon,Vxi,479000,Hatchback,998,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,Wagon,Vxi Ags,526000,Hatchback,998,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,Wagon,1.2L Zxi,548000,Hatchback,1197,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Wagon,Lxi,434000,Hatchback,998,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,Wagon,1.2L Vxi,513501,Hatchback,1197,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,Wagon,1.2L Vxi Ags,560500,Hatchback,1197,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,Wagon,1.2L Zxi Ags,594800,Hatchback,1197,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Wagon,Lxi (O),441000,Hatchback,998,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Wagon,Vxi (O),486001,Hatchback,998,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Wagon,1.2L Vxi (O),520500,Hatchback,1197,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Wagon,1.2L Vxi Ags (O),567500,Hatchback,1197,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Wagon,Vxi Ags (O),533000,Hatchback,998,3,Injection,32,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Maruti Suzuki,Wagon,Lxi Cng,500500,Hatchback,998,3,Injection,32,CNG,15.5,5.0,2.0,Yes,1.0,Rear sensors,No
+Maruti Suzuki,Wagon,Lxi (O) Cng,507500,Hatchback,998,3,Injection,32,CNG,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Tata,Tiago Nrg,1.2L Revotron,594993,Crossover,1199,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Tata,Tiago Nrg,1.05L Revotorq,689993,Crossover,1047,3,Injection,35,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Tata,Tiago Nrg,1.2L Revotron Amt,639993,Crossover,1199,3,Injection,35,Petrol,15.5,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Mahindra,Nuvosport,N4,797802,SUV,1493,3,Injection,60,Diesel,13.8,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Nuvosport,N6,905642,SUV,1493,3,Injection,60,Diesel,13.8,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Nuvosport,N8,984818,SUV,1493,3,Injection,60,Diesel,13.8,7.0,2.0,Yes,2.0,Rear sensors with camera,No
+Mahindra,Nuvosport,N4 +,832415,SUV,1493,3,Injection,45,Diesel,13.8,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Nuvosport,N6 Amt,972359,SUV,1493,3,Injection,60,Diesel,12.8,7.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Nuvosport,N8 Amt,1048603,SUV,1493,3,Injection,60,Diesel,12.8,7.0,2.0,Yes,2.0,Rear sensors with camera,No
+Nissan,Kicks,Xl Petrol,955000,SUV,1498,4,Injection,50,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Nissan,Kicks,Xv Petrol,1095000,SUV,1498,4,Injection,50,Petrol,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,No
+Nissan,Kicks,Xl Diesel,1109000,SUV,1461,4,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Nissan,Kicks,Xv Diesel,1251000,SUV,1461,4,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Nissan,Kicks,Xv Premium,1369000,SUV,1461,4,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors with camera,Yes
+Nissan,Kicks,Xv Premium (O),1465000,SUV,1461,4,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Front & rear sensors with 360 degree view,Yes
+Nissan,Kicks,Xv Premium (O) Dual Tone,1465000,SUV,1461,4,Injection,50,Diesel,15.5,5.0,2.0,Yes,7.0,Front & rear sensors with 360 degree view,Yes
+Nissan,Kicks,Xe Diesel,989000,SUV,1461,4,Injection,50,Diesel,15.5,5.0,2.0,Yes,2.0,Rear sensors,No
+Tata,Winger,15S,1205000,MUV,2200,4,Injection,60,Diesel,15.5,16.0,2.0,Yes,2.0,No Sensors,No
+Toyota,Camry,Hybrid,3788000,Sedan,2487,4,Injection,50,Hybrid,15.5,5.0,3.0,Yes,9.0,Rear sensors with camera,Yes
+Audi,A5,Sportback,6061200,Sedan,1968,4,Injection,45,Diesel,15.5,5.0,2.0,Yes,6.0,Varied sensors,Yes
+Land Rover,Discovery,3.0 Hse Diesel,10205494,SUV,2993,6,Injection,85,Diesel,15.5,7.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Discovery,3.0 Se Diesel,9689321,SUV,2993,6,Injection,85,Diesel,15.5,7.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Discovery,3.0 Hse Petrol,8433741,SUV,2995,6,Injection,89,Petrol,15.5,7.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Discovery,3.0 Se Petrol,8077550,SUV,2995,6,Injection,89,Petrol,15.5,7.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Discovery,3.0 S Diesel,8877094,SUV,2993,6,Injection,85,Diesel,15.5,7.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Discovery,3.0 S Petrol,7693664,SUV,2995,6,Injection,89,Petrol,15.5,7.0,3.0,Yes,8.0,Front and rear sensors with camera,Yes
+Land Rover,Discovery,3.0 Hse Luxury Diesel,10861088,SUV,2993,6,Injection,85,Diesel,15.5,7.0,3.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Land Rover,Discovery,3.0 Hse Luxury Petrol,8937846,SUV,2995,6,Injection,89,Petrol,15.5,7.0,3.0,Yes,8.0,Front & rear sensors with 360 degree view,Yes
+Lexus,Ls 500H,Luxury,18221000,SUV,3456,6,Injection,82,Hybrid,15.5,5.0,2.0,Yes,14.0,Front & rear sensors with 360 degree view,Yes
+Lexus,Ls 500H,Ultra Luxury,18736000,SUV,3456,6,Injection,82,Hybrid,15.5,5.0,2.0,Yes,14.0,Front & rear sensors with 360 degree view,Yes
+Lexus,Ls 500H,Distinct,19371000,SUV,3456,6,Injection,82,Hybrid,15.5,5.0,2.0,Yes,14.0,Front & rear sensors with 360 degree view,Yes
+Fiat,Punto Evo,Dynamic 1.2,535562,Hatchback,1172,4,Injection,45,Petrol,15.8,5.0,3.0,Yes,2.0,No Sensors,No
+Fiat,Punto Evo,Active Multijet 1.3,631292,Hatchback,1172,4,Injection,45,Diesel,21.2,5.0,3.0,Yes,1.0,Rear sensors,No
+Fiat,Punto Evo,Dynamic Multijet 1.3,692655,Hatchback,1248,4,Injection,45,Diesel,21.2,5.0,3.0,Yes,2.0,Rear sensors,No
+Fiat,Punto Evo,Emotion Multijet 1.3,747774,Hatchback,1248,4,Injection,45,Diesel,21.2,5.0,3.0,Yes,2.0,Rear sensors,No
+Toyota,Yaris,J,940000,Sedan,1496,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,7.0,Rear sensors,No
+Toyota,Yaris,G,1055000,Sedan,1496,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,7.0,Rear sensors,No
+Toyota,Yaris,V,1174000,Sedan,1498,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,7.0,Front and rear sensors with camera,No
+Toyota,Yaris,Vx Cvt,1418000,Sedan,1496,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,7.0,Front and rear sensors with camera,Yes
+Toyota,Yaris,G Cvt,1175000,Sedan,1496,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,7.0,Rear sensors,No
+Toyota,Yaris,J Cvt,1010000,Sedan,1496,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,7.0,Rear sensors,No
+Toyota,Yaris,V Cvt,1294000,Sedan,1496,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,7.0,Front and rear sensors with camera,No
+Toyota,Yaris,Vx,1296000,Sedan,1496,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,7.0,Front and rear sensors with camera,Yes
+Toyota,Yaris,V (O),1197000,Sedan,1498,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,7.0,Front and rear sensors with camera,No
+Toyota,Yaris,J (O),876000,Sedan,1496,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,3.0,Rear sensors,No
+Toyota,Yaris,G (O),974000,Sedan,1496,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,3.0,Rear sensors,No
+Toyota,Yaris,J (O) Cvt,935000,Sedan,1496,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,3.0,Rear sensors,No
+Toyota,Yaris,G (O) Cvt,1083000,Sedan,1496,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,3.0,Rear sensors,No
+Toyota,Yaris,V (O) Cvt,1317000,Sedan,1498,4,Injection,42,Petrol,15.5,5.0,2.0,Yes,7.0,Front and rear sensors with camera,No
+Skoda,Octavia,Ambition 1.4 Tsi,1599599,Sedan,1395,4,Injection,50,Petrol,15.5,5.0,3.0,Yes,4.0,Rear sensors,No
+Skoda,Octavia,Ambition 2.0 Tdi Cr,1799599,Sedan,1968,4,Injection,50,Diesel,15.5,5.0,3.0,Yes,4.0,Rear sensors,Yes
+Skoda,Octavia,Style 1.4 Tsi,1899599,Sedan,1395,4,Injection,50,Petrol,15.5,5.0,3.0,Yes,6.0,Front and rear sensors with camera,No
+Skoda,Octavia,Style 1.8 Tsi At,2059599,Sedan,1798,4,Injection,50,Petrol,15.5,5.0,3.0,Yes,6.0,Front and rear sensors with camera,No
+Skoda,Octavia,Style 2.0 Tdi Cr,2079599,Sedan,1968,4,Injection,50,Diesel,15.5,5.0,3.0,Yes,6.0,Front and rear sensors with camera,No
+Skoda,Octavia,Style 2.0 Tdi Cr At,2299599,Sedan,1968,4,Injection,50,Diesel,15.5,5.0,3.0,Yes,6.0,Front and rear sensors with camera,No
+Skoda,Octavia,L & K 1.8 Tsi At,2359599,Sedan,1798,4,Injection,50,Petrol,15.5,5.0,3.0,Yes,6.0,Front and rear sensors with camera,Yes
+Skoda,Octavia,L & K 2.0 Tdi Cr At,2359599,Sedan,1968,4,Injection,50,Diesel,15.5,5.0,3.0,Yes,6.0,Front and rear sensors with camera,Yes
+Skoda,Octavia,Corporate Edition 1.4 Tsi,1549000,Sedan,1395,4,Injection,50,Petrol,15.5,5.0,3.0,Yes,6.0,Front and rear sensors with camera,No
+Skoda,Octavia,Corporate Edition 2.0 Tdi,1699000,Sedan,1968,4,Injection,50,Diesel,15.5,5.0,3.0,Yes,6.0,Front and rear sensors with camera,No
+Skoda,Octavia,Onyx 1.8 Tsi Dsg,1999599,Sedan,1798,4,Injection,50,Petrol,15.5,5.0,3.0,Yes,6.0,Front and rear sensors with camera,Yes
+Skoda,Octavia,Onyx 2.0 Tdi Dsg,2199599,Sedan,1968,4,Injection,50,Diesel,15.5,5.0,3.0,Yes,6.0,Front and rear sensors with camera,Yes
+Mahindra,Verito,1.5 D2,748370,Sedan,1461,4,Injection,50,Diesel,18.0,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Verito,1.5 D4 Bs-Iv,772617,Sedan,1461,4,Injection,50,Diesel,18.0,5.0,2.0,Yes,2.0,No Sensors,No
+Mahindra,Verito,1.5 D6 Bs-Iv,845154,Sedan,1461,4,Injection,50,Diesel,18.0,5.0,2.0,Yes,2.0,No Sensors,No
+Mitsubishi,Pajero Sport,2.5 Mt,2903750,SUV,2477,4,Injection,70,Diesel,6.5,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mitsubishi,Pajero Sport,2.5 At,2835500,SUV,2477,4,Injection,70,Diesel,6.5,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mitsubishi,Pajero Sport,Limited Edition,2953240,SUV,2477,4,Injection,70,Diesel,6.5,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mitsubishi,Pajero Sport,Select Plus Mt,2992800,SUV,2477,4,Injection,70,Diesel,6.5,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Mitsubishi,Pajero Sport,Select Plus At,2952500,SUV,2477,4,Injection,70,Diesel,6.5,7.0,3.0,Yes,2.0,Rear sensors with camera,Yes
+Bentley,Flying Spur,V8,34167064,Sedan,3993,8,Injection,90,Petrol,2.0,4.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Bentley,Flying Spur,W12,39382083,Sedan,5998,12,Injection,90,Petrol,2.0,4.0,2.0,Yes,6.0,Front and rear sensors with camera,Yes
+Honda,City,Sv Mt Petrol,991000,Sedan,1497,4,Injection,40,Petrol,14.3,5.0,2.0,Yes,2.0,No Sensors,No
+Honda,City,V Mt Petrol,1065900,Sedan,1497,4,Injection,40,Petrol,14.3,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Honda,City,Vx Mt Petrol,1182000,Sedan,1497,4,Injection,40,Petrol,14.3,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Honda,City,Vx Cvt Petrol,1312000,Sedan,1497,4,Injection,40,Petrol,14.3,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Honda,City,Sv Mt Diesel,1111000,Sedan,1498,4,Injection,40,Diesel,22.6,5.0,2.0,Yes,2.0,No Sensors,No
+Honda,City,V Mt Diesel,1191000,Sedan,1498,4,Injection,40,Diesel,22.6,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Honda,City,Vx Mt Diesel,1302000,Sedan,1498,4,Injection,40,Diesel,22.6,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Honda,City,Zx Mt Diesel,1421000,Sedan,1498,4,Injection,40,Diesel,22.6,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Honda,City,Zx Cvt Petrol,1431000,Sedan,1497,4,Injection,40,Petrol,18.0,5.0,2.0,Yes,6.0,Rear sensors with camera,Yes
+Honda,City,V Cvt Petrol,1201000,Sedan,1497,4,Injection,40,Petrol,14.3,5.0,2.0,Yes,2.0,Front and rear sensors with camera,Yes
+Mitsubishi,Montero,3.2 At,6862560,SUV,3200,4,Injection,88,Diesel,8.25,7.0,2.0,Yes,6.0,Rear sensors with camera,Yes
